@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>MedEx · PreQx (SAC 2016) — RAG con DeepSeek (OpenRouter)</title>
+  <style>
+    :root{--bg:#0b1020;--card:#111735;--muted:#9aa4c7;--accent:#5b8cff;--ok:#1fbf74;--warn:#ffaa2c;--bad:#ff5e5e}
+    *{box-sizing:border-box}
+    body{margin:0;background:linear-gradient(180deg,#0b1020,#0b1228 40%,#0b1020);font:14px/1.45 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;color:#eef3ff}
+    header{position:sticky;top:0;background:#0b1020bb;backdrop-filter:saturate(140%) blur(6px);border-bottom:1px solid #1a2146}
+    .wrap{max-width:1080px;margin:0 auto;padding:18px}
+    h1{font-size:18px;margin:0}
+    .muted{color:var(--muted)}
+    .grid{display:grid;grid-template-columns:1fr;gap:16px;margin:18px 0}
+    @media(min-width:920px){.grid{grid-template-columns:1.2fr 1fr}}
+    .card{background:var(--card);border:1px solid #1a2146;border-radius:16px;padding:16px;box-shadow:0 10px 30px rgba(0,0,0,.25)}
+    .title{font-weight:700;margin-bottom:8px}
+    label{display:block;margin:8px 0 6px}
+    input[type=file], input[type=text], input[type=password], textarea, select{width:100%;padding:10px 12px;border-radius:12px;border:1px solid #2a3266;background:#0f1533;color:#e8eeff}
+    textarea{min-height:96px;resize:vertical}
+    .row{display:flex;gap:10px;flex-wrap:wrap}
+    button{appearance:none;border:0;border-radius:12px;padding:10px 14px;font-weight:700;cursor:pointer}
+    .primary{background:var(--accent);color:#fff}
+    .ghost{background:#161d42;color:#cdd6ff;border:1px solid #273072}
+    .ok{background:var(--ok);color:#021}
+    .warn{background:var(--warn);color:#210}
+    .bad{background:var(--bad);color:#210}
+    .pill{display:inline-block;background:#1a2146;border:1px solid #273072;color:#b9c6ff;border-radius:999px;padding:3px 8px;margin:0 6px 6px 0;font-size:12px}
+    .result{border-left:4px solid var(--accent);padding-left:10px;margin:12px 0}
+    pre,code{background:#0a0f26;border:1px solid #1a2146;border-radius:12px;padding:12px;white-space:pre-wrap;word-break:break-word}
+    .cols2{display:grid;grid-template-columns:1fr;gap:10px}
+    @media(min-width:720px){.cols2{grid-template-columns:1fr 1fr}}
+    .foot{color:#9fb0ff70;font-size:12px;margin-top:8px}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <h1>MedEx · PreQx (SAC 2016) <span class="muted">— Subpágina con RAG + DeepSeek (OpenRouter)</span></h1>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div class="grid">
+      <!-- IZQUIERDA: Fuente + Pregunta + Retrieval -->
+      <section class="card">
+        <div class="title">1) Cargar fuente (JSON purificado del Consenso SAC)</div>
+        <div class="cols2">
+          <div>
+            <label>Subir archivo <small class="muted">consenso_sac_preop_purificado.json</small></label>
+            <input id="fileCorpus" type="file" accept="application/json" />
+          </div>
+          <div>
+            <label>…o URL pública del JSON</label>
+            <input id="urlCorpus" type="text" placeholder="https://tu-dominio/consenso_sac_preop_purificado.json" />
+          </div>
+        </div>
+        <div id="metaCorpus" class="foot">Sin cargar</div>
+
+        <hr style="border-color:#1a2146;opacity:.4;margin:16px 0" />
+
+        <div class="title">2) (Opcional) Aliases para mejorar búsqueda</div>
+        <div class="cols2">
+          <div>
+            <label>Subir <small class="muted">procedimientos_alias.json</small></label>
+            <input id="fileAlias" type="file" accept="application/json" />
+          </div>
+          <div>
+            <label>…o URL pública de Aliases</label>
+            <input id="urlAlias" type="text" placeholder="https://tu-dominio/procedimientos_alias.json" />
+          </div>
+        </div>
+        <div id="metaAlias" class="foot">(opcional)</div>
+
+        <hr style="border-color:#1a2146;opacity:.4;margin:16px 0" />
+
+        <div class="title">3) Pregunta clínica</div>
+        <textarea id="query" placeholder="Ej.: ¿En qué categoría de riesgo cardiovascular cae una videocolonoscopia diagnóstica? (SAC 2016)"></textarea>
+        <div class="row" style="margin-top:10px">
+          <button class="primary" id="btnSearch">Buscar en SAC</button>
+          <button class="ghost" id="btnCopyCtx">Copiar CONTEXTO-RAG</button>
+          <button class="ghost" id="btnCopyPrompt">Copiar PROMPT para DeepSeek</button>
+        </div>
+
+        <div style="margin-top:14px" class="muted">Sugerencias detectadas: <span id="hints"></span></div>
+
+        <div style="margin-top:14px" class="title">Resultados (top‑5)</div>
+        <div id="results"></div>
+
+        <div style="margin-top:14px" class="title">CONTEXTO-RAG</div>
+        <pre id="ctxOut"></pre>
+      </section>
+
+      <!-- DERECHA: Config LLM + Llamada + Respuesta -->
+      <section class="card">
+        <div class="title">4) Configurar DeepSeek (OpenRouter)</div>
+        <label>API Key (se guarda localmente en tu navegador)</label>
+        <input id="key" type="password" placeholder="sk-or-v1-…" />
+        <div class="cols2" style="margin-top:8px">
+          <div>
+            <label>Modelo</label>
+            <select id="model">
+              <option value="deepseek/deepseek-chat" selected>deepseek/deepseek-chat</option>
+              <option value="deepseek/deepseek-r1">deepseek/deepseek-r1 (razonamiento, puede tardar más)</option>
+            </select>
+          </div>
+          <div>
+            <label>Temperatura</label>
+            <input id="temp" type="text" value="0.1" />
+          </div>
+        </div>
+        <div class="foot">Tu clave queda en <b>localStorage</b>. Recomendado usar una clave con <i>scope</i> limitado. Si preferís no exponer la clave en el navegador, implementá este llamado desde tu backend.</div>
+
+        <hr style="border-color:#1a2146;opacity:.4;margin:16px 0" />
+
+        <div class="title">5) Enviar a DeepSeek con CONTEXTO-RAG</div>
+        <div class="row">
+          <button class="ok" id="btnAsk">Enviar y obtener respuesta</button>
+          <button class="warn" id="btnClear">Limpiar salida</button>
+        </div>
+        <div style="margin-top:12px" class="muted">Respuesta del modelo</div>
+        <pre id="llmOut"></pre>
+
+        <div class="foot">Guardrails: el prompt fuerza “<b>Solo SAC 2016</b>”. Si el contexto no contiene lo preguntado, la respuesta debe ser “Fuera de alcance del Consenso SAC 2016”.</div>
+      </section>
+    </div>
+
+    <section class="card">
+      <div class="title">Notas</div>
+      <ul class="muted">
+        <li>Este buscador hace <b>RAG local</b>: selecciona 5 fragmentos del Consenso SAC (Secc. 2 y 3) y se los pasa al LLM.</li>
+        <li>Para despliegue: subí este archivo como <code>preqx/index.html</code> en tu sitio (GitHub Pages/hosting actual).</li>
+        <li>Más adelante podemos agregar la “Plantilla A2” para descargar el informe.</li>
+      </ul>
+    </section>
+  </main>
+
+  <script>
+    // ===== Utilidades =====
+    const el = (id)=>document.getElementById(id);
+    const metaCorpus = el('metaCorpus');
+    const metaAlias  = el('metaAlias');
+    const hintsSpan  = el('hints');
+
+    function norm(s){
+      return (s||'').toLowerCase()
+        .normalize('NFD').replace(/[\u0300-\u036f]/g,'')
+        .replace(/[^\p{L}\p{N}\s]/gu,' ');
+    }
+    function scoreChunk(q, chunk){
+      const qWords = norm(q).split(/\s+/).filter(w=>w.length>2);
+      const txt = norm(chunk.text||'');
+      const sec = norm(chunk.section_label||'');
+      let s = 0;
+      for(const w of qWords){
+        const rx = new RegExp('\\b'+w+'\\b','g');
+        const m = txt.match(rx); if(m) s += m.length*3;
+        const m2 = sec.match(rx); if(m2) s += m2.length*1;
+      }
+      s += Math.min(5, Math.floor((qWords.length>0? (txt.length/qWords.length):0)/500));
+      return s;
+    }
+
+    // Estado
+    let CORPUS = null; // {meta, chunks:[]}
+    let ALIAS  = null; // {procedimientos:[{canonico, alias:[]}]}
+
+    // Persistencia básica de API key / modelo / temp
+    const keyInput = el('key');
+    const modelSel = el('model');
+    const tempInput= el('temp');
+    keyInput.value = localStorage.getItem('preqx_key')||'';
+    modelSel.value = localStorage.getItem('preqx_model')||'deepseek/deepseek-chat';
+    tempInput.value = localStorage.getItem('preqx_temp')||'0.1';
+    keyInput.addEventListener('change', ()=>localStorage.setItem('preqx_key', keyInput.value));
+    modelSel.addEventListener('change', ()=>localStorage.setItem('preqx_model', modelSel.value));
+    tempInput.addEventListener('change', ()=>localStorage.setItem('preqx_temp', tempInput.value));
+
+    // Carga CORPUS por archivo o URL
+    el('fileCorpus').addEventListener('change', async (e)=>{
+      const f = e.target.files[0]; if(!f) return;
+      const text = await f.text(); CORPUS = JSON.parse(text);
+      metaCorpus.textContent = `Fuente: ${CORPUS?.meta?.source_file||'?'} | Chunks: ${CORPUS?.meta?.chunks_count || CORPUS?.chunks?.length || '?'} | Páginas: ${JSON.stringify(CORPUS?.meta?.pages_included||{})}`;
+    });
+    el('urlCorpus').addEventListener('change', async (e)=>{
+      const url = e.target.value.trim(); if(!url) return;
+      const res = await fetch(url); const text = await res.text(); CORPUS = JSON.parse(text);
+      metaCorpus.textContent = `Fuente: ${CORPUS?.meta?.source_file||'?'} | Chunks: ${CORPUS?.meta?.chunks_count || CORPUS?.chunks?.length || '?'} | Páginas: ${JSON.stringify(CORPUS?.meta?.pages_included||{})}`;
+    });
+
+    // Carga ALIAS por archivo o URL
+    el('fileAlias').addEventListener('change', async (e)=>{
+      const f = e.target.files[0]; if(!f) return; const text = await f.text(); ALIAS = JSON.parse(text);
+      metaAlias.textContent = `Aliases: ${(ALIAS?.procedimientos||[]).length}`;
+    });
+    el('urlAlias').addEventListener('change', async (e)=>{
+      const url = e.target.value.trim(); if(!url) return; const res = await fetch(url); const text = await res.text(); ALIAS = JSON.parse(text);
+      metaAlias.textContent = `Aliases: ${(ALIAS?.procedimientos||[]).length}`;
+    });
+
+    function expandQueryWithAliases(q){
+      if(!ALIAS || !ALIAS.procedimientos) return {expanded:q, hints:[]};
+      const nq = norm(q);
+      let additions = []; let hints=[];
+      for(const p of ALIAS.procedimientos){
+        for(const a of (p.alias||[])){
+          const na = norm(a).trim();
+          if(na && nq.includes(na)){ additions.push(p.canonico); hints.push(p.canonico); break; }
+        }
+      }
+      additions = [...new Set(additions)];
+      const expanded = additions.length ? q + ' ' + additions.join(' ') : q;
+      return {expanded, hints};
+    }
+
+    function runSearch(){
+      const q0 = el('query').value.trim(); if(!CORPUS||!Array.isArray(CORPUS.chunks)){alert('Cargá primero el JSON del Consenso.');return}
+      if(!q0){alert('Escribí tu pregunta.');return}
+      const {expanded:q, hints} = expandQueryWithAliases(q0);
+      hintsSpan.innerHTML = (hints||[]).map(h=>`<span class="pill">${h}</span>`).join(' ');
+      const ranked = CORPUS.chunks.map((c,i)=>({i,c,score:scoreChunk(q,c)})).sort((a,b)=>b.score-a.score).slice(0,5);
+
+      const results = el('results'); results.innerHTML='';
+      let ctx = [];
+      ranked.forEach((r,idx)=>{
+        const meta = `SAC p.${r.c.page_start}–${r.c.page_end} | ${r.c.section_label}`;
+        const div = document.createElement('div'); div.className='result';
+        div.innerHTML = `<div class="muted">#${idx+1} · ${meta}</div><div>${r.c.text}</div>`;
+        results.appendChild(div);
+        ctx.push(`${idx+1}) ${meta}\n${r.c.text}`);
+      });
+      el('ctxOut').textContent = ctx.join('\n\n');
+    }
+    el('btnSearch').addEventListener('click', runSearch);
+
+    // Copiar
+    function copy(t){
+      navigator.clipboard.writeText(t).then(()=>alert('Copiado al portapapeles.')).catch(()=>{
+        const ta=document.createElement('textarea'); ta.value=t; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); alert('Copiado.');
+      });
+    }
+    el('btnCopyCtx').addEventListener('click', ()=>copy(el('ctxOut').textContent||''));
+
+    const SYSTEM_PROMPT = `Eres un asistente clínico que SOLO puede responder usando los fragmentos del Consenso SAC 2016 incluidos en CONTEXTO.\nSi algo no está literalmente en CONTEXTO, responde: "Fuera de alcance del Consenso SAC 2016".\nDevuelve SIEMPRE: 1) Respuesta breve y concreta. 2) Pasos/criterios SAC usados. 3) Citas en formato: SAC p.X–Y | subtítulo.\nNo inventes ni uses conocimiento externo.`;
+
+    el('btnCopyPrompt').addEventListener('click', ()=>{
+      const q = el('query').value.trim(); const ctx = el('ctxOut').textContent.trim();
+      const full = `### SYSTEM\n${SYSTEM_PROMPT}\n\n### USER\n[PREGUNTA]\n${q}\n\n[CONTEXTO-RAG]\n${ctx}`;
+      copy(full);
+    });
+
+    // Llamada a OpenRouter
+    async function askLLM(){
+      const key = keyInput.value.trim(); if(!key){alert('Poné tu API key de OpenRouter.');return}
+      const model = modelSel.value; const temperature = parseFloat(tempInput.value||'0.1')||0.1;
+      const question = el('query').value.trim(); if(!question){alert('Escribí tu pregunta.');return}
+      const ctx = el('ctxOut').textContent.trim(); if(!ctx){alert('Primero hacé la búsqueda (CONTEXTO-RAG).');return}
+
+      const messages = [
+        {role:'system', content: SYSTEM_PROMPT},
+        {role:'user', content: `Pregunta:\n${question}\n\nCONTEXTO-RAG (SAC 2016):\n${ctx}`}
+      ];
+
+      el('llmOut').textContent = 'Consultando a OpenRouter…';
+      try{
+        const res = await fetch('https://openrouter.ai/api/v1/chat/completions',{
+          method:'POST',
+          headers:{
+            'Authorization': `Bearer ${key}`,
+            'Content-Type':'application/json',
+            'HTTP-Referer': 'https://medex.ar',
+            'X-Title': 'MedEx PreQx (SAC)'
+          },
+          body: JSON.stringify({
+            model,
+            temperature,
+            messages,
+            // Comentá "response_format" si el modelo elegido no lo admite.
+            // response_format:{ type:'json_object' }
+          })
+        });
+        if(!res.ok){
+          const t = await res.text(); throw new Error(`HTTP ${res.status}: ${t}`);
+        }
+        const data = await res.json();
+        const out = data?.choices?.[0]?.message?.content || JSON.stringify(data,null,2);
+        el('llmOut').textContent = out;
+      }catch(err){
+        el('llmOut').textContent = 'Error: '+ (err?.message||String(err));
+      }
+    }
+    el('btnAsk').addEventListener('click', askLLM);
+    el('btnClear').addEventListener('click', ()=>{ el('llmOut').textContent=''; });
+
+  </script>
+</body>
+</html>
