@@ -1,0 +1,1167 @@
+{
+  "meta": {
+    "source_file": "Consenso SAC.pdf",
+    "title": "Consenso SAC 2016 – Preoperatorio (Secciones 2 y 3)",
+    "pages_total_pdf": 39,
+    "pages_included": {
+      "from": 4,
+      "to": 30
+    },
+    "chunks_count": 144,
+    "notes": "Líneas limpiadas de encabezados/pies; agrupadas por subtítulos; chunk ~1100 chars con solapamiento 120; filtro por palabras clave."
+  },
+  "chunks": [
+    {
+      "section_label": "Sección 2–3",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 1033,
+      "text": "3 clásicamente con este nuevo sistema, consideramos evidencia tipo A cuando la calidad según GRADE fue alta, tipo B cuando fue moderada y tipo C cuando fue baja o muy baja. En el caso de la recomendación basada en el “consenso u opinión de expertos”, dada la escasez de evidencia (clásicamente tipo C), también se incluyó como tipo C en este Consenso, como si la evidencia existente fuera de calidad baja o muy baja. Puesto que GRADE califica la calidad de la evidencia de los puntos finales y no la de los estudios, puede ocurrir que surjan distin - tas valoraciones de estos. En tal caso, para calificar la evidencia, se priorizaron los puntos finales críticos por encima de los importantes, considerando siempre la calidad más baja observada, por ejemplo, fármaco X vs. Y con mortalidad similar en ambos grupos, con calidad de evidencia moderada, y IAM similar, con calidad baja. Aquí debemos considerar “no beneficio” de una sobre otra, con calidad de la evidencia baja, o sea, recomen - dación clase II, con evidencia tipo C. 2."
+    },
+    {
+      "section_label": "Sección 2–3",
+      "page_start": 4,
+      "page_end": 4,
+      "char_start_in_paragraph": 913,
+      "char_end_in_paragraph": 2007,
+      "text": "neficio” de una sobre otra, con calidad de la evidencia baja, o sea, recomen - dación clase II, con evidencia tipo C. 2. EVALUACIÓN PREOPERATORIA DEL RIESGO CARDIOVASCULAR CLÍNICO-QUIRÚRGICO La evaluación preoperatoria del riesgo cardiovascular tiene como objetivo guiar el manejo perioperatorio de los métodos diagnósticos y las indicaciones terapéuticas necesarias para reducir, fundamentalmente, las complica - ciones cardiovasculares a corto plazo. La evaluación debe ser simple, accesible, rápida y del menor costo posible, de manera de no superar la com - plejidad e incluso los riesgos de la propia propuesta quirúrgica, ni tampoco postergarla innecesariamente, sobre todo en indicaciones tendientes a curar o evitar la progresión de enfermedades graves como, por ejemplo, cáncer, enfermedades vasculares, infecciones, etcétera. La evaluación preoperatoria del riesgo clínico-quirúrgico debe incorporar, en forma escalonada: 1) las condi - ciones clínicas del paciente, 2) el grado de “estrés quirúrgico” del procedimiento y 3) los resultados de los estudios complementarios solicitados."
+    },
+    {
+      "section_label": "2.1 Condiciones clínicas del paciente",
+      "page_start": 4,
+      "page_end": 5,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 1061,
+      "text": "Las variables clínicas surgidas del interrogatorio y del examen físico son elementos muy útiles y han sido el centro de atención desde hace muchos años. Distintos autores desarrollaron puntajes (o scores ) multivariables para predecir el riesgo cardiovascular, empezando por el de Goldman y cols. publicado en 1977 (7), modificado luego por otros autores (8-9), y llegando finalmente al Índice de Riesgo Cardíaco Revisado ( Revised Cardiac Risk Index , RCRI), publicado por Lee y cols. en 1999 (10), que mostró una mejora en la predicción de eventos y que fue validado externamente (11). Por esta razón, fue incorporado por las Guías AHA/ACC 2007 (12) y ESC 2009 (13) y, como consecuencia, ha sido el más ampliamente difundido hasta la fecha. En el análisis de la metodología aplicada para el desarrollo de los puntajes mejor calificados (reclutamiento prospectivo, inclusión de distintos tipos de cirugía, monitorización de eventos) (7-10) se observan limitaciones importantes. En primer lugar, los tamaños muestrales fueron modestos (incluyeron entre 455 y 2."
+    },
+    {
+      "section_label": "2.1 Condiciones clínicas del paciente",
+      "page_start": 4,
+      "page_end": 5,
+      "char_start_in_paragraph": 941,
+      "char_end_in_paragraph": 1841,
+      "text": "se observan limitaciones importantes. En primer lugar, los tamaños muestrales fueron modestos (incluyeron entre 455 y 2.893 pacientes) y el número de eventos cardiovasculares ocurridos resultó escaso (entre 30 y 66). Por lo tanto, la cantidad de predictores independientes obtenidos según el puntaje evaluado (entre 5 y 13) resulta exagerada considerando que se requieren entre 12 y 15 eventos por predictor para confiar en el modelo estadístico (14,15). Segundo, el análisis de la curva ROC en cuanto a sensibilidad y especificidad mostró valores de alrededor de 0,75, hecho que presupone una clasificación de riesgo equivocada en 1 de cada 4 pacientes y determina así una predicción modesta. Tercero, algunos factores de riesgo y los puntos finales utilizados tuvieron diferentes definiciones, y, además, estos últimos (sobre todo el infarto perioperatorio) fueron monitorizados en forma subóptima."
+    },
+    {
+      "section_label": "2.1 Condiciones clínicas del paciente",
+      "page_start": 4,
+      "page_end": 5,
+      "char_start_in_paragraph": 1721,
+      "char_end_in_paragraph": 2734,
+      "text": "s definiciones, y, además, estos últimos (sobre todo el infarto perioperatorio) fueron monitorizados en forma subóptima. Finalmente, dichos puntajes resultan poco aplicables en la actualidad dado que fueron desarrollados entre 15 y 38 años atrás, antes del surgimiento de muchos avances en las técnicas quirúrgicas y anestésicas actuales. Respecto de otros métodos o puntajes difundidos, sobre todo entre los anestesiólogos, podemos citar la clasifi - cación de la Asociación Americana de Anestesia (ASA), que valora el estado físico general o grado de enfermedad del paciente, propuesta en 1941 (16). Existe evidencia muy controvertida en la relación de esta escala con los resultados posoperatorios, de manera que −si bien tiene utilidad para describir entre colegas el estado general de un paciente, e incluso para tomar decisiones importantes tales como suspender una cirugía en casos extremos− no se recomienda su uso rutinario como sistema de estratificación de riesgo cardiovascular en la práctica clínica."
+    },
+    {
+      "section_label": "2.1 Condiciones clínicas del paciente",
+      "page_start": 4,
+      "page_end": 5,
+      "char_start_in_paragraph": 2614,
+      "char_end_in_paragraph": 3679,
+      "text": "emos− no se recomienda su uso rutinario como sistema de estratificación de riesgo cardiovascular en la práctica clínica. El puntaje RCRI, señalado previamente como el más difundido, consiste en 6 factores de riesgo cardiovascular: antecedente de cardiopatía isquémica, antecedente de insuficiencia cardíaca congestiva, antecedente de enfermedad cerebrovascular (ACV o AIT), diabetes tratada con insulina, creatinina preoperatoria > 2 mg/dL y cirugía de alto riesgo (intraperitoneal, intratorácica o vascular suprainguinal) (10). La estimación del riesgo se realiza según el número de factores de riesgo presentes, de acuerdo con la Tabla 2, modificada para incluir datos de mortalidad (7). Si bien el RCRI ha demostrado la mejor estimación de eventos cardiovasculares en una población no selec - cionada de adultos sometidos a cirugía no cardíaca, tiene como limitaciones que se realizó en un solo centro, se excluyeron los casos de emergencia y aquellos con estadía hospitalaria < 2 días, no se consideró el ACV como punto final y el IAM se definió según la CK-MB."
+    },
+    {
+      "section_label": "2.1 Condiciones clínicas del paciente",
+      "page_start": 4,
+      "page_end": 5,
+      "char_start_in_paragraph": 3559,
+      "char_end_in_paragraph": 4602,
+      "text": "aquellos con estadía hospitalaria < 2 días, no se consideró el ACV como punto final y el IAM se definió según la CK-MB. Una revisión sistemática publicada en 2010 evaluó la capacidad del RCRI para predecir complicaciones cardiovasculares y muerte luego de una cirugía no cardíaca (vascular y no vascular) incluyendo 24 estudios y 792.740 pacientes (17). De acuerdo con el área ROC, el RCRI mostró una capacidad moderada para discriminar pacientes de bajo versus alto riesgo, sobre todo con una pobre predicción de eventos luego de la cirugía vascular, y para predecir mortalidad. Los autores destacaron la escasez de estudios con poder y calidad adecuados, y la alta heterogeneidad en el análisis. La evidencia más importante existente hasta el momento respecto de predictores independientes de riesgo perioperatorio surge de un gran estudio prospectivo multicéntrico e internacional denominado VISION ( Vas- cular events In noncardiac Surgery patIents cOhort evaluation ), publicado recientemente por P .J. Devereaux y cols., que incluyó 15."
+    },
+    {
+      "section_label": "2.1 Condiciones clínicas del paciente",
+      "page_start": 4,
+      "page_end": 5,
+      "char_start_in_paragraph": 4482,
+      "char_end_in_paragraph": 5533,
+      "text": "In noncardiac Surgery patIents cOhort evaluation ), publicado recientemente por P .J. Devereaux y cols., que incluyó 15.133 pacientes sometidos a una amplia gama de cirugías no cardíacas en sujetos > 45 años, que tuvieron al menos una noche de internación. La inclusión fue prospectiva, con objetivos, factores de riesgo y puntos finales preespecificados, con monitorización sistemática de troponina T posoperatoria, adjudicación central y ciega de eventos, y análisis primario basado en la mortalidad a 30 días, con 282 eventos primarios ad - judicados (tasa de mortalidad a 30 días de 1,9%, IC 95% 1,7-2,1%) (3). Si bien la primera publicación se centró en la importancia de la monitorización con troponina, de ella surgen 11 predictores clínicos independientes de muerte a 30 días, a saber (algunas definiciones en el Apéndice): 1. Edad > 65 años. Categoría 65 a 74 años ( hazard ratio ajustado [HRa] 1,67, IC 95% 1,18-2,36) y > 75 años (HRa 3,03, IC 95% 2,20-4,18) . 2. Enfermedad coronaria reciente de alto riesgo (HRa 3,12, IC 95% 1,71-5,68). 3."
+    },
+    {
+      "section_label": "2.1 Condiciones clínicas del paciente",
+      "page_start": 4,
+      "page_end": 5,
+      "char_start_in_paragraph": 5413,
+      "char_end_in_paragraph": 6368,
+      "text": "75 años (HRa 3,03, IC 95% 2,20-4,18) . 2. Enfermedad coronaria reciente de alto riesgo (HRa 3,12, IC 95% 1,71-5,68). 3. Antecedente de enfermedad vascular periférica (HRa 2,13, IC 95% 1,47-3,10). 4. Antecedente de insuficiencia cardíaca (HRa 1,60 IC 95% 1,09-2,36). 5. Antecedente de ACV (HRa 2,01 IC 95% 1,42-2,84). 6. Antecedente de enfermedad pulmonar obstructiva crónica (EPOC) (HRa 2,15 IC 95% 1,61-2,89). 7. Cáncer activo (HRa 2,38 IC 95% 1,79-3,18). 8. Cirugía de urgencia o emergencia (HRa 4,62 IC 95% 3,57-5,98). 9. Cirugía general mayor (HRa 3,25 IC 95% 1,64-6,45). 10. Cirugía vascular mayor (HRa 2,38 IC 95% 1,04-5,47). 11. Neurocirugía mayor (HRa 3,72 IC 95% 1,68-8,20). En este análisis no resultaron ser predictores independientes el sexo, la diabetes, la hipertensión arterial, la presencia de fibrilación auricular, la enfermedad coronaria estable, la apnea del sueño, ni tampoco la cirugía urológica/ginecológica, ortopédica o torácica."
+    },
+    {
+      "section_label": "2.1 Condiciones clínicas del paciente",
+      "page_start": 4,
+      "page_end": 5,
+      "char_start_in_paragraph": 6248,
+      "char_end_in_paragraph": 6975,
+      "text": "a enfermedad coronaria estable, la apnea del sueño, ni tampoco la cirugía urológica/ginecológica, ortopédica o torácica. Es importante destacar la diferente definición de algunos predictores incluidos en el puntaje RCRI, tales como diabetes, que aquí no fue “diabetes que requiere insulina”, y enfermedad coronaria estable, que en VISION se analizó en forma separada de enfermedad coronaria reciente de alto riesgo. Como puede observarse a través los HRa ajustados, la presencia de un predictor (cualquiera de ellos) duplica, triplica, e incluso cuadruplica (urgencia/ emergencia) la mortalidad comparado con su ausencia. Para la propuesta de determinación de riesgo cardiovascular clínico-quirúrgico enunciada en la sección 2."
+    },
+    {
+      "section_label": "2.1 Condiciones clínicas del paciente",
+      "page_start": 4,
+      "page_end": 5,
+      "char_start_in_paragraph": 6855,
+      "char_end_in_paragraph": 7401,
+      "text": "n su ausencia. Para la propuesta de determinación de riesgo cardiovascular clínico-quirúrgico enunciada en la sección 2.4 de este Consenso, hemos confeccionado una lista de criterios mayores y menores basada en los predictores independientes de VISION, a los cuales les hemos incorporado predictores de riesgo surgidos de otros estudios y también del criterio del panel de cardiólogos participantes (por ejemplo, valvulopatías graves, insuficiencia renal, diabetes, enfermedad coronaria estable, modificación del punto de corte de la edad, etc.)."
+    },
+    {
+      "section_label": "2.2.1 Tipo de cirugía",
+      "page_start": 5,
+      "page_end": 6,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 1005,
+      "text": "Todos los procedimientos quirúrgicos producen cierto grado de estrés desencadenado por el daño tisular y mediado por la liberación al torrente sanguíneo de factores neuroendocrinos, tales como el cortisol y las catecolaminas. Tabla 2. Índice de riesgo cardíaco revisado: predictores y eventos Factores de riesgo Complicaciones CV mayores Mortalidad cardiovascular % (IC 95%) (10) % (11) 0 0,5 (0,2-1,1) 0,3 1 1,3 (0,7-2,1) 0,7 2 3,6 (2,1-5,6) 1,7 ≥ 3 9,1 (5,5-13,8) 3,6 5 Estas sustancias favorecen 3 situaciones: 1) un aumento de la demanda de oxígeno miocárdico inducida por la taquicardia y la hipertensión; 2) un estado hipercoagulable dado por un desequilibrio entre factores protrombó - ticos y fibrinolíticos, tales como mayor activación y agregación plaquetaria, aumento del fibrinógeno y reducción de la fibrinólisis; 3) un incremento de las fuerzas de roce en el interior de las arterias coronarias (“shear stress”) y 4) un estado inflamatorio e hipóxico generado por los cambios neurohumorales."
+    },
+    {
+      "section_label": "2.2.1 Tipo de cirugía",
+      "page_start": 5,
+      "page_end": 6,
+      "char_start_in_paragraph": 885,
+      "char_end_in_paragraph": 1966,
+      "text": "las arterias coronarias (“shear stress”) y 4) un estado inflamatorio e hipóxico generado por los cambios neurohumorales. Indudablemente, la cirugía no cardíaca mayor representa una prueba de estrés miocárdico, que puede conducir a la trombosis coronaria y a las complicaciones isquémicas generadas por la combinación de estos mecanismos. También existen otros factores específicos de la cirugía que pueden causar isquemia, lesión miocárdica e insuficiencia cardíaca. Ellos son la necesidad de cirugía de urgencia o emergencia y la localización, agresividad y duración del procedimiento. Este último factor aumenta en forma lineal las alteraciones de los fluidos, sobre todo la pérdida sanguínea, modificando la relación aporte/demanda de oxígeno, que también favorece la isquemia miocárdica. Además, los cambios tensionales y de la temperatura corporal, la pérdida de líquidos y la hipoxemia son comunes en las cirugías prolongadas que comprometen la cavidad abdominal o torácica, y también pueden colaborar en la generación de isquemia o agravar una insuficiencia cardíaca previa."
+    },
+    {
+      "section_label": "2.2.1 Tipo de cirugía",
+      "page_start": 5,
+      "page_end": 6,
+      "char_start_in_paragraph": 1846,
+      "char_end_in_paragraph": 2927,
+      "text": "dominal o torácica, y también pueden colaborar en la generación de isquemia o agravar una insuficiencia cardíaca previa. En consecuencia, la morbimortalidad cardiovascular se concentra en los pacientes sometidos a cirugías ma - yores muy invasivas y radicales en el tórax, abdomen o en territorios vasculares. Los pacientes en plan de cirugía vascular representan un subgrupo con enfermedad aterosclerótica pan - vascular, es decir que, independientemente de que la cirugía planificada sea aórtica, de arterias de miembros inferiores o incluso de carótidas, se suma un riesgo adicional por la coexistencia de coronariopatía, diabetes, insuficiencia renal y edad avanzada. Por estas razones, algunos procedimientos que a priori impresionan ser de menor riesgo (por ejemplo, angioplastia periférica o cirugía infrainguinal) pueden presentar complicaciones graves en el posoperatorio. Más allá de las recomendaciones perioperatorias que analizaremos más adelante, el pronóstico de estos pacientes estará dado por los cuidados cardiovasculares alejados luego de la cirugía no cardíaca."
+    },
+    {
+      "section_label": "2.2.1 Tipo de cirugía",
+      "page_start": 5,
+      "page_end": 6,
+      "char_start_in_paragraph": 2807,
+      "char_end_in_paragraph": 3825,
+      "text": "el pronóstico de estos pacientes estará dado por los cuidados cardiovasculares alejados luego de la cirugía no cardíaca. Los pacientes sometidos a trasplante de riñón, páncreas e hígado también tienen mayor riesgo asociado a la magnitud del procedimiento y a la frecuente asociación de comorbilidades. Mientras tanto, aquellos sometidos a resecciones pulmonares incrementan el riesgo por la frecuente presencia de EPOC severa. Contrariamente, los procedimientos menores poco invasivos, que no incluyen el hemiabdomen superior ni el tórax y que no generan pérdidas sanguíneas importantes ni cambios hidroelectrolíticos, son considerados de menor riesgo. En la Tabla de la sección 2.4 se observa el riesgo de muerte y IAM a 30 días de acuerdo con el tipo de cirugía, dividido en 3 categorías (alto > 5%, intermedio entre 1 y 5%, y bajo < 1%), tomada de las guías de la European Society of Cardiology (ESC) (13) y modificada para este Consenso incluyendo datos del estudio VI - SION y la opinión del panel de cardiólogos."
+    },
+    {
+      "section_label": "2.2.1 Tipo de cirugía",
+      "page_start": 5,
+      "page_end": 6,
+      "char_start_in_paragraph": 3705,
+      "char_end_in_paragraph": 4454,
+      "text": "(ESC) (13) y modificada para este Consenso incluyendo datos del estudio VI - SION y la opinión del panel de cardiólogos. Independientemente de las condiciones que presente el paciente, y aun cuando resulten favorables, esta clasificación puede orientar, a grandes rasgos, sobre la necesidad de una evaluación preoperatoria en el riesgo alto y moderado. Asimismo, frente a procedimientos estimados como de muy bajo riesgo, puede resultar que las malas condiciones del paciente lo incrementen y, por lo tanto, requieran una evaluación apropiada. La evidencia surgida del estudio VISION destaca solamente la cirugía general y la neurocirugía mayor junto a la cirugía vascular, como predictores independientes de muerte a los 30 días posoperatorios (3)."
+    },
+    {
+      "section_label": "2.2.1 Tipo de cirugía",
+      "page_start": 5,
+      "page_end": 6,
+      "char_start_in_paragraph": 4334,
+      "char_end_in_paragraph": 5316,
+      "text": "rocirugía mayor junto a la cirugía vascular, como predictores independientes de muerte a los 30 días posoperatorios (3). Finalmente, merece un párrafo aparte la cirugía laparoscópica que, si bien genera menor dolor, menor daño a los tejidos, menor parálisis intestinal y menores cambios en los fluidos, puede causar, a través del neumoperitoneo, presión positiva intraabdominal y disminución de la precarga por caída del retorno venoso, con la consiguiente activación simpática, aumento de vasopresina, aumento de la resistencia vascular sistémica y del factor natriuré - tico auricular. Todo converge hacia una caída variable, aunque a veces significativa, del gasto cardíaco. Además, determinadas cirugías requieren cambios en la posición del paciente que suelen profundizar las alteraciones hemodinámicas, en especial la posición de Trendelenburg invertido (habitual en cirugías abdominales altas). A estos cambios hay que sumarles los efectos depresores de la anestesia general."
+    },
+    {
+      "section_label": "2.2.1 Tipo de cirugía",
+      "page_start": 5,
+      "page_end": 6,
+      "char_start_in_paragraph": 5196,
+      "char_end_in_paragraph": 6266,
+      "text": "abitual en cirugías abdominales altas). A estos cambios hay que sumarles los efectos depresores de la anestesia general. La técnica de tracción mecánica de la pared, al no utilizar neumoperitoneo, evita en parte las alteraciones descriptas. Sin embargo, las principales desventajas se encuentran en que dificulta la técnica quirúrgica y se asocia con mayor dolor posoperatorio. Puede ser de utilidad en pacientes con cardiopatías severas (18). La incidencia de isquemia y de infarto perioperatorio en cirugía laparoscópica, no ha sido mayor que en cirugías convencionales (19). Sin embargo, en pacientes con cardiopatías graves, la caída del gasto cardíaco puede ser crítica y mal tole - rada. En ocasiones es recomendable la monitorización perioperatoria con catéter de Swan-Ganz para optimizar la precarga y observar el volumen minuto durante la cirugía. Indudablemente, lo antes descripto justifica la necesidad de una evaluación prequirúrgica en estos pacientes, particularmente en aquellos con historia de cardiopatía o insuficiencia cardíaca manifiesta o de ambas."
+    },
+    {
+      "section_label": "2.2.2 Tipo de anestesia",
+      "page_start": 7,
+      "page_end": 7,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 1100,
+      "text": "La mayoría de los anestésicos empleados producen vasodilatación a través de la reducción del tono simpático y de esta manera causan hipotensión arterial sistémica. Consiguientemente, el objetivo fundamental durante la cirugía es mantener una perfusión adecuada de los órganos vitales. Por esta razón, resulta fundamental la detección prequirúrgica de afecciones cardiovasculares graves que puedan complicarse durante el período perioperatorio. Como concepto general, lo ideal es realizar la denominada “anestesia balanceada”, que significa utilizar los beneficios de cada fármaco, evitando los efectos adversos de estos en dosis elevadas. En cuanto a efectos hemodinámicos, los derivados opiáceos mantienen la estabilidad cardiovascular, con la desventaja del requerimiento de ventilación mecánica más prolongada con dosis elevadas. La utilización de agentes tales como el remifentanilo permite la infusión continua sin efectos acumulativos, evitando la mencio - nada depresión ventilatoria pero requiriendo la utilización de una estrategia analgésica para el posoperatorio, dada su breve vida media."
+    },
+    {
+      "section_label": "2.2.2 Tipo de anestesia",
+      "page_start": 7,
+      "page_end": 7,
+      "char_start_in_paragraph": 980,
+      "char_end_in_paragraph": 1928,
+      "text": "ntilatoria pero requiriendo la utilización de una estrategia analgésica para el posoperatorio, dada su breve vida media. Los anestésicos inhalatorios volátiles pueden inducir depresión de la contractilidad miocárdica y reducción de la poscarga, favoreciendo a pacientes con cardiopatías, pero sin evidencia definitiva al respecto. Además, producen un preacondicionamiento isquémico, que los hace muy recomendables para pacientes cardiópatas, por encima de la anestesia intravenosa total (TIVA). Las técnicas neuraxiales (espinal y epidural) también pueden producir reducción del tono simpático, generan - do hipotensión por la reducción de precarga y poscarga, reducción del inotropismo y de la frecuencia cardíaca. Esto se produce fundamentalmente cuando se alcanza el dermatoma D4. Tal efecto es similar al bloqueo de los receptores Beta y resulta muy favorable en determinados pacientes con cardiopatías dado que disminuye el consumo de oxígeno."
+    },
+    {
+      "section_label": "2.2.2 Tipo de anestesia",
+      "page_start": 7,
+      "page_end": 7,
+      "char_start_in_paragraph": 1808,
+      "char_end_in_paragraph": 2799,
+      "text": "ptores Beta y resulta muy favorable en determinados pacientes con cardiopatías dado que disminuye el consumo de oxígeno. En estos casos es importante evitar la dispersión caudal innecesaria que puede producir vasodilatación marcada y así alterar la presión de perfusión coronaria. La anestesia local no asociada a sedación, si bien puede carecer de algunos de los efectos hemodinámicos adversos de las técnicas generales o regionales, puede incrementar las complicaciones cardiovasculares mediadas por una escasa reducción del “estrés quirúrgico”, independientemente de conseguir el objetivo de reducción del dolor, sobre todo en pacientes con riesgo cardiovascular aumentado. Finalmente, con respecto al tipo de anestesia, no existe evidencia contundente que indique beneficio con alguna técnica o fármaco específico aplicados en cirugía no cardíaca. Los estudios realizados tienen limitaciones metodológicas, fundamentalmente escaso poder estadístico dados los tamaños muestrales pequeños."
+    },
+    {
+      "section_label": "2.2.2 Tipo de anestesia",
+      "page_start": 7,
+      "page_end": 7,
+      "char_start_in_paragraph": 2679,
+      "char_end_in_paragraph": 3362,
+      "text": "ados tienen limitaciones metodológicas, fundamentalmente escaso poder estadístico dados los tamaños muestrales pequeños. Tan así es que en los pacientes de alto riesgo, la Guía de la ESC (13) recomienda anestésicos volátiles y la Guía ACCF-AHA (12) recomienda anestesia torácica epidural (recomendación II-a en ambos casos). En nuestra opinión, el alcance de este Consenso se limita a recomendaciones perioperatorias de manejo cardiovascular, por lo cual no incluye específicamente la selección de la técnica anestésica ni quirúrgica, que quedan a criterio del anestesiólogo y del cirujano, una vez informados del resultado de la evaluación de riesgo por parte del médico cardiólogo."
+    },
+    {
+      "section_label": "2.2.3 Momento de la cirugía",
+      "page_start": 7,
+      "page_end": 8,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 1036,
+      "text": "Una situación de urgencia o emergencia quirúrgica implica una incidencia de muerte a 30 días casi 5 veces mayor que la forma electiva, de acuerdo con el estudio VISION, que incluyó 2.142 casos de urgencia o emergencia sobre un total superior a 15.000 cirugías (HRa ajustado 4,62, IC 95% 3,57-5,98) (3). Dicho estudio consideró emergencia a la cirugía dentro de las 24 horas y urgencia entre 24 y 72 horas del evento agudo. Indudablemente, la magnitud de las consecuencias adversas responden en gran parte a la inestabilidad clínica y hemodinámica que presentan estos enfermos en el momento de la intervención, dada la imposibilidad de tratarlos y estabilizarlos previamente para que puedan tolerar mejor la agresión quirúrgica. Las cirugías de urgencia o emergencia solo permiten una evaluación cardíaca superficial. Sin embargo, una evaluación rápida y sencilla puede influir en las medidas de monitorización intraoperatoria y posoperatoria y en las indicaciones médicas adecuadas a las condiciones del paciente para reducir el riesgo."
+    },
+    {
+      "section_label": "2.2.3 Momento de la cirugía",
+      "page_start": 7,
+      "page_end": 8,
+      "char_start_in_paragraph": 916,
+      "char_end_in_paragraph": 1860,
+      "text": "peratoria y posoperatoria y en las indicaciones médicas adecuadas a las condiciones del paciente para reducir el riesgo. Por ejemplo, la deter - minación de la función ventricular mediante una ecografía Doppler cardíaca puede resultar muy útil para guiar el manejo de líquidos, de fármacos vasoactivos, diuréticos o inotrópicos, a fin de prevenir el desarrollo de insufi - ciencia cardíaca y bajo gasto. También la presencia de isquemia miocárdica o bien el antecedente de cardiopatía isquémica puede guiar la monitorización intraoperatoria y posoperatoria hacia la realización de marcadores de lesión miocárdica, de ECG más frecuentes o la monitorización del segmento ST . En situaciones menos urgentes, cuando el riesgo de la enfermedad para tratar supera el de la cirugía sumado a la condición del paciente, la indicación puede considerarse semi-electiva, y lo aconsejable es la inter - vención, aun sin una evaluación completa del paciente."
+    },
+    {
+      "section_label": "2.2.3 Momento de la cirugía",
+      "page_start": 7,
+      "page_end": 8,
+      "char_start_in_paragraph": 1740,
+      "char_end_in_paragraph": 2332,
+      "text": "puede considerarse semi-electiva, y lo aconsejable es la inter - vención, aun sin una evaluación completa del paciente. Es el caso, por ejemplo, de una revascularización arterial para salvar un miembro, o bien en pacientes portadores de neoplasias malignas, cuando la cirugía es necesaria para definir la factibilidad de curación. Cualquier retraso de la cirugía en el intento de estabilizar al enfermo (indicar estudios y tratamientos, a veces complejos) puede comprometer el pronóstico del paciente más que el riesgo de la cirugía en sí mismo, dado el potencial avance del proceso tumoral."
+    },
+    {
+      "section_label": "2.2.3 Momento de la cirugía",
+      "page_start": 7,
+      "page_end": 8,
+      "char_start_in_paragraph": 2212,
+      "char_end_in_paragraph": 2334,
+      "text": "er el pronóstico del paciente más que el riesgo de la cirugía en sí mismo, dado el potencial avance del proceso tumoral. 7"
+    },
+    {
+      "section_label": "2.3.1 Electrocardiograma (ECG)",
+      "page_start": 8,
+      "page_end": 8,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 1094,
+      "text": "El ECG preoperatorio puede ser útil para identificar alguna enfermedad cardíaca preexistente no conocida y para monitorizar cambios isquémicos en el perioperatorio (alteraciones ST-T) y arritmias. Algunos autores identificaron la hipertrofia ventricular izquierda, la frecuencia cardíaca elevada y los tras - tornos del segmento ST como predictores independientes de eventos cardíacos adversos y muerte, en el segui - miento de pacientes con enfermedad coronaria o alto riesgo de padecerla sometidos a una cirugía vascular o no cardíaca (20-22). En una población con un prevalencia alta de enfermedad cardiovascular sometida a cirugías de moderado y alto riesgo, el ECG anormal señaló una tasa de IAM o muerte de 21,6% contra 8,3% en los pacientes con ECG normal (p < 0,001) (23). Sin embargo, este valor pronóstico resulta ser menor en pacientes sometidos a cirugía de bajo y bajo a mode - rado riesgo (22). Así, un estudio que incluyó 18.189 pacientes sometidos a cirugía de cataratas demostró que el ECG, entre otros estudios preoperatorios, no predijo complicaciones del procedimiento (21)."
+    },
+    {
+      "section_label": "2.3.1 Electrocardiograma (ECG)",
+      "page_start": 8,
+      "page_end": 8,
+      "char_start_in_paragraph": 974,
+      "char_end_in_paragraph": 2054,
+      "text": "de cataratas demostró que el ECG, entre otros estudios preoperatorios, no predijo complicaciones del procedimiento (21). Por otro lado, existe controversia sobre el valor pronóstico del ECG sumado a los factores de riesgo clínicos. Algunos autores señalaron que las alteraciones significativas del ECG preoperatorio se asocian a edad mayor de 65 años, historia de ángor, insuficiencia cardíaca, colesterol alto, IAM o enfermedad valvular grave, y que solo un 0,4% de los pacientes con alteraciones significativa del ECG no presentan alguno de estos factores de riesgo (24). Un estudio prospectivo que incluyó 2.422 pacientes sometidos a cirugía no cardíaca de distintos grados de riesgo evidenció que solo los bloqueos de rama izquierda derecha se asociaron en forma independiente a la ocurrencia de IAM perioperatorio. Cuando se incluyeron en el análisis los predictores clínicos del ya mencionado RCRI de Lee y cols., no se observó un aumento del poder predictivo del ECG. Las alteraciones del ECG tampoco se asociaron a un incremento de la mortalidad intrahos - pitalaria (25)."
+    },
+    {
+      "section_label": "2.3.1 Electrocardiograma (ECG)",
+      "page_start": 8,
+      "page_end": 8,
+      "char_start_in_paragraph": 1934,
+      "char_end_in_paragraph": 2875,
+      "text": "ctivo del ECG. Las alteraciones del ECG tampoco se asociaron a un incremento de la mortalidad intrahos - pitalaria (25). Finalmente, debemos destacar que, en poblaciones añosas, la alta prevalencia de alteraciones del ECG transforma el método en muy poco específico. De hecho, en sujetos mayores de 70 años sometidos a cirugía no cardíaca, no fue posible predecir eventos perioperatorios mediante el ECG. Hasta el 75% de los pacientes tenían alteraciones del ECG, observándose sensibilidad del 85% y una muy baja especificidad del 26%, justificando entonces el escaso valor predictivo (26). En conclusión, si bien la evidencia no es contundente, podemos decir que a mayor riesgo cardiovascular del paciente y de la cirugía, el valor del ECG para predecir eventos a corto y largo plazo aumenta. Paradójicamente, este beneficio puede anularse en poblaciones añosas por la baja especificidad observada, dada la alta prevalencia de alteraciones."
+    },
+    {
+      "section_label": "2.3.1 Electrocardiograma (ECG)",
+      "page_start": 8,
+      "page_end": 8,
+      "char_start_in_paragraph": 2755,
+      "char_end_in_paragraph": 3526,
+      "text": "icio puede anularse en poblaciones añosas por la baja especificidad observada, dada la alta prevalencia de alteraciones. Por otro lado, la utilidad es menor en cirugías de bajo riesgo y en pacientes jóvenes sin comorbilidades, en quienes la probabilidad de encontrar alteraciones del ECG es muy baja, y la chance de beneficio, también. Recomendaciones sobre la indicación preoperatoria de ECG Clase I 1. Pacientes portadores de, al menos, 1 criterio mayor o menor de la lista de la sección 2.4 (nivel de evidencia A) 2. Pacientes en plan de cirugía de riesgo moderado o alto de la Tabla de la sección 2.4 (nivel de evidencia B) Clase II-a 1. Pacientes portadores de alguna cardiopatía o arritmia no enumerada en la lista mencionada (nivel de evi - dencia C) Clase II-b 1."
+    },
+    {
+      "section_label": "2.3.1 Electrocardiograma (ECG)",
+      "page_start": 8,
+      "page_end": 8,
+      "char_start_in_paragraph": 3406,
+      "char_end_in_paragraph": 3659,
+      "text": "portadores de alguna cardiopatía o arritmia no enumerada en la lista mencionada (nivel de evi - dencia C) Clase II-b 1. Pacientes sin criterios mayores ni menores de la lista mencionada, ni de otra cardiopatía o arritmia conocida (nivel de evidencia B)"
+    },
+    {
+      "section_label": "2.3.2 Radiografía de tórax",
+      "page_start": 8,
+      "page_end": 9,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 858,
+      "text": "Su indicación de rutina en el período preoperatorio tiene limitaciones, de acuerdo con un metaanálisis que inclu - yó 14.390 pacientes provenientes de 21 estudios publicados entre 1966 y 1992. Los resultados evidenciaron que apenas el 10% de las radiografías (Rx) presentaron anormalidades y que solo el 1,3% de estos hallazgos hubieran pasado inadvertidos realizando la historia clínica y el examen físico. Es más, estos hallazgos solos modificaron el manejo perioperatorio (solicitud de más estudios o suspensión de la cirugía) en el 0,1% de los casos (27). Una serie posterior evidenció alteraciones hasta en un 23,1% de los pacientes, pero esto solo alteró el manejo perioperatorio en un 0,5% y ayudó a diagnosticar complicaciones posoperatorias en un 5% de los casos (28), sin presentar el poder suficiente para modificar el pronóstico de los pacientes."
+    },
+    {
+      "section_label": "2.3.2 Radiografía de tórax",
+      "page_start": 8,
+      "page_end": 9,
+      "char_start_in_paragraph": 738,
+      "char_end_in_paragraph": 1748,
+      "text": "operatorias en un 5% de los casos (28), sin presentar el poder suficiente para modificar el pronóstico de los pacientes. De acuerdo con otra revisión, la mayoría de las anormalidades de la Rx de tórax pueden predecirse a través de la edad, las comorbilidades cardiopulmonares y las enfermedades sistémicas, y corresponden fundamentalmente a patologías crónicas conocidas (cardiomegalia o EPOC) (29). Según este trabajo, los pacientes asintomáticos menores de 70 años no se beneficiarían con la indicación rutinaria de este método, mientras que en los mayores de 70 años no hay suficiente evidencia para dar una opinión sólida. Según el American College of Physicians, los factores de riesgo relevantes asociados en forma significativa a complicaciones pulmonares perioperatorias son la edad (> 60 años OR[ odds ratio ] 2,09 IC 95% 1,7-2,58; > 70 años OR 3,04, IC 95% 2,11-4,39), la enfermedad pulmonar crónica (OR 1,79, IC 95% 1,44-2,22) y la insuficiencia cardíaca congestiva (OR 2,93, IC 95% 1,02-8,43) (30)."
+    },
+    {
+      "section_label": "2.3.2 Radiografía de tórax",
+      "page_start": 8,
+      "page_end": 9,
+      "char_start_in_paragraph": 1628,
+      "char_end_in_paragraph": 2657,
+      "text": "ad pulmonar crónica (OR 1,79, IC 95% 1,44-2,22) y la insuficiencia cardíaca congestiva (OR 2,93, IC 95% 1,02-8,43) (30). En conclusión, debido al bajo rédito diagnóstico, a la dificultad para identificar pacientes con riesgo aumentado, a la falta de valor pronóstico que permita reducir el riesgo perioperatorio, al costo y a la asociación con posibles efectos adversos (radiación), este Consenso no recomienda la indicación sistemática de la radiografía de tórax en la evaluación preoperatoria de cirugía no cardíaca. Por el contrario, se sugiere su indicación selectiva basada en las características del paciente individual o en el procedimiento quirúrgico. Recomendaciones sobre la indicación preoperatoria de Rx de tórax Clase I 1. Ninguna Clase II-a 1. Pacientes con signos o síntomas respiratorios de causa no aclarada (nivel de evidencia B) 2. Pacientes en plan de cirugía torácica, toracoabdominal o abdominal superior (nivel de evidencia B) Clase II-b 1. Pacientes con edad avanzada (> 70 años) (nivel de evidencia B) 2."
+    },
+    {
+      "section_label": "2.3.2 Radiografía de tórax",
+      "page_start": 8,
+      "page_end": 9,
+      "char_start_in_paragraph": 2710,
+      "char_end_in_paragraph": 2947,
+      "text": "(nivel de evidencia B) 3. Pacientes con antecedentes de enfermedad pulmonar crónica (nivel de evidencia B) Clase III 1. Indicación sistemática de Rx de tórax a todos los pacientes en plan de cirugía no cardíaca (nivel de evi - dencia C)"
+    },
+    {
+      "section_label": "2.3.3 Pruebas funcionales evocadoras de isquemia miocárdica",
+      "page_start": 9,
+      "page_end": 10,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 1042,
+      "text": "Clásicamente se ha considerado que conocer la capacidad funcional (CF) del paciente y la presencia de isquemia miocárdica inducible son elementos útiles durante la evaluación prequirúrgica. Con respecto a la CF , existen evidencias de una relación débil de esta con los eventos adversos cardíacos y la mortalidad posoperatoria, surgidas de un estudio que incluyó 5.939 pacientes sometidos a cirugía no cardíaca electiva. Considerando un área ROC de 0,7 como un umbral diagnóstico aceptable, en dicho estudio la CF mostró un área ROC de 0,66, mientras que la edad fue más predictiva de eventos, con un área ROC de 0,81 ( 31). De todos modos, dado que la CF se asocia a la función pulmonar, permite predecir un incremento de la mortalidad en los pacientes sometidos a cirugía torácica, aunque no a otro tipo de cirugías no cardíacas, como se mencionó antes (32). La prueba de esfuerzo sirve para valorar la CF , excepto en aquellos que no pueden realizarla, en quienes debemos estimarla mediante un interrogatorio de sus actividades cotidianas."
+    },
+    {
+      "section_label": "2.3.3 Pruebas funcionales evocadoras de isquemia miocárdica",
+      "page_start": 9,
+      "page_end": 10,
+      "char_start_in_paragraph": 922,
+      "char_end_in_paragraph": 1996,
+      "text": "quellos que no pueden realizarla, en quienes debemos estimarla mediante un interrogatorio de sus actividades cotidianas. La CF se mide habitualmente en equivalentes metabólicos (mets). La tasa metabólica en reposo equivale a 1 met. Se considera como CF baja a menos de 4 mets, y normal por encima de dicho límite. Por ejemplo, 4 mets pueden estimarse en aquellos que pueden hacer una caminata rápida, o andar lentamente en bicicleta, o subir al menos 2 pisos de escaleras sin inconvenientes, en tanto que subir varios pisos de escaleras, correr o nadar, equivalen a más de 7 mets. Las pruebas evocadoras de isquemia nos permiten tener más información durante la evaluación prequirúr - gica, particularmente en pacientes con riesgo cardiovascular elevado a partir de sus antecedentes, que serán sometidos a cirugías de moderado o alto riesgo; en aquellos con síntomas isquémicos no evaluados, y en aquellos en plan de cirugía vascular u otra de alto riesgo, en quienes la prevalencia estimada de enfermedad coronaria o la incidencia de complicaciones, o ambas, son muy altas."
+    },
+    {
+      "section_label": "2.3.3 Pruebas funcionales evocadoras de isquemia miocárdica",
+      "page_start": 9,
+      "page_end": 10,
+      "char_start_in_paragraph": 1876,
+      "char_end_in_paragraph": 2739,
+      "text": "o, en quienes la prevalencia estimada de enfermedad coronaria o la incidencia de complicaciones, o ambas, son muy altas. Para elaborar las recomendaciones de este Consenso analizamos las evidencias generadas por 5 metaanálisis publicados en los últimos años (33-37) que evaluaron el papel de las pruebas funcionales. Inicialmente, hay que destacar que la vasta mayoría de los estudios seleccionados en las revisiones sistemáticas se realizaron en el contexto de la cirugía vascular; por lo tanto, su extrapolación al contexto amplio de la cirugía no cardíaca deberá ser manejada con cautela. 9 La ergometría convencional es el método más disponible, con una modesta sensibilidad y especificidad para muerte y IAM combinados (74% y 69%, respectivamente), con un alto valor predictivo negativo (98%) y una precisión diagnóstica semejante a la de otros métodos (33)."
+    },
+    {
+      "section_label": "2.3.3 Pruebas funcionales evocadoras de isquemia miocárdica",
+      "page_start": 9,
+      "page_end": 10,
+      "char_start_in_paragraph": 2619,
+      "char_end_in_paragraph": 3612,
+      "text": "ivamente), con un alto valor predictivo negativo (98%) y una precisión diagnóstica semejante a la de otros métodos (33). Sin embargo, es frecuente que los pacientes de mo - derado y alto riesgo presenten alteraciones basales del ECG que dificultan la interpretación de los resultados y, además, que no alcancen el umbral de isquemia ideal (85% de la frecuencia cardíaca máxima prevista) ante la imposibilidad de realizar un ejercicio vigoroso. Los estudios de perfusión miocárdica y el ecocardiograma de estrés son alternativas excelentes cuando el paciente puede hacer ejercicio, en tanto que las modalidades de perfusión miocárdica con dipiridamol y ecoestrés con dobutamina resultan ideales en quienes no pueden hacer ejercicio, tales como pacientes añosos o con patología vascular u ortopédica. También es importante destacar la necesidad de indicar estudios farmacológicos cuando el paciente es portador de bloqueo completo de rama izquierda o marcapasos, particularmente con dipiridamol."
+    },
+    {
+      "section_label": "2.3.3 Pruebas funcionales evocadoras de isquemia miocárdica",
+      "page_start": 9,
+      "page_end": 10,
+      "char_start_in_paragraph": 3492,
+      "char_end_in_paragraph": 4468,
+      "text": "icos cuando el paciente es portador de bloqueo completo de rama izquierda o marcapasos, particularmente con dipiridamol. La información acumulada por los múltiples metaanálisis muestra una capacidad diagnóstica semejante de los estudios de medicina nuclear comparados con los de ecocardiografía de estrés, ya sean con ejercicio o farma - cológicos, quizá con una ligera mayor especificidad de los estudios con ultrasonido, sin exponer al paciente a las radiaciones (33,34). Es importante destacar que, mientras que los estudios con dipiridamol están contraindicados en pacientes con antecedentes de broncoespasmo y bloqueo auriculoventricular avanzado, la dobutamina no sería de elección en pacientes con arritmia ventricular compleja e hipertensión arterial no controlada. El ecoestrés no es apropiado con inadecuada ventana acústica. Con respecto a los hallazgos, los resultados de estos estudios no deben interpretarse en forma dicotómica, es decir, “con” o “sin” isquemia."
+    },
+    {
+      "section_label": "2.3.3 Pruebas funcionales evocadoras de isquemia miocárdica",
+      "page_start": 9,
+      "page_end": 10,
+      "char_start_in_paragraph": 4348,
+      "char_end_in_paragraph": 5366,
+      "text": "allazgos, los resultados de estos estudios no deben interpretarse en forma dicotómica, es decir, “con” o “sin” isquemia. En general, podríamos decir que los pacientes con < 20% de los segmentos mio - cárdicos isquémicos tienen los mismos resultados que aquellos sin isquemia. El riesgo de IAM o muerte empieza a aumentar progresivamente por encima del 20% de los segmentos isquémicos, mostrando una asociación fuerte con las complicaciones ante isquemias que afectan más del 30% de los segmentos miocárdicos (35). Es importante destacar que solo el 24% de los pacientes tuvieron isquemia > 20% (35), y, por otro lado, que existe evidencia acerca de que más del 30% de los eventos cardiovasculares ocurren en pacientes con pruebas evocadoras de isquemia negativas (34). Por lo tanto, para que los estudios tengan un mejor rendimiento diag - nóstico es necesaria una selección adecuada de los pacientes. Las limitaciones de la evidencia radican fundamentalmente en su naturaleza observacional y mayormente retrospectiva."
+    },
+    {
+      "section_label": "2.3.3 Pruebas funcionales evocadoras de isquemia miocárdica",
+      "page_start": 9,
+      "page_end": 10,
+      "char_start_in_paragraph": 5246,
+      "char_end_in_paragraph": 6255,
+      "text": "es. Las limitaciones de la evidencia radican fundamentalmente en su naturaleza observacional y mayormente retrospectiva. Algunos problemas metodológicos, tales como los resultados no ciegos de los estudios, seguramente permitieron que los médicos realizaran distintos tipos de tratamientos, reduciendo las complicaciones y modi - ficando así los valores predictivos de los estudios. Incluso la adjudicación no ciega de los eventos y la ausencia de una búsqueda sistemática del IAM posoperatorio puede haber aumentado el valor predictivo de isquemias extensas. Finalmente, es probable que el sesgo de publicación también tenga influencias en los resultados. En conclusión, la indicación de pruebas funcionales preoperatorias debería seguir los criterios clínicos ge - nerales aplicados en escenarios no operatorios. A los fines de este Consenso, en la sección 2.4 se exponen una sistemática sugerida para definir el riesgo clínico-quirúrgico y recomendaciones que incluyen la indicación de pruebas funcionales."
+    },
+    {
+      "section_label": "2.3.3 Pruebas funcionales evocadoras de isquemia miocárdica",
+      "page_start": 9,
+      "page_end": 10,
+      "char_start_in_paragraph": 6135,
+      "char_end_in_paragraph": 7058,
+      "text": "sugerida para definir el riesgo clínico-quirúrgico y recomendaciones que incluyen la indicación de pruebas funcionales. Globalmente, se sugiere realizarlas en aquellos pacientes con antecedentes cardiovasculares estables, sintomáticos o con baja clase funcional. Recomendaciones sobre la indicación preoperatoria de pruebas funcionales Clase II-a 1. En pacientes de moderado o alto riesgo clínico-quirúrgico por criterios menores de la lista numerados entre el 1 y el 6, definidos en la sección 2.4 (nivel de evidencia A) 2. En pacientes de bajo riesgo clínico-quirúrgico por criterios menores de la lista numerados entre el 1 y el 6, que tienen angina o disnea en CF 1-2, o bien que viven en baja CF (menos de 4 mets), definidos en la sección 2.4 (nivel de evidencia C) Clase II-b 1. En pacientes de cualquier grado de riesgo que reúnen algún criterio menor de la lista numerados entre el 7 y 10 (nivel de evidencia C) 2."
+    },
+    {
+      "section_label": "2.3.3 Pruebas funcionales evocadoras de isquemia miocárdica",
+      "page_start": 9,
+      "page_end": 10,
+      "char_start_in_paragraph": 6938,
+      "char_end_in_paragraph": 7258,
+      "text": "ualquier grado de riesgo que reúnen algún criterio menor de la lista numerados entre el 7 y 10 (nivel de evidencia C) 2. En pacientes de bajo riesgo clínico-quirúrgico por criterios menores de la lista numerados entre el 1 y el 6, que están asintomáticos y con buena CF (4 mets o más) (nivel de evidencia C) Clase III 1."
+    },
+    {
+      "section_label": "2.3.3 Pruebas funcionales evocadoras de isquemia miocárdica",
+      "page_start": 9,
+      "page_end": 10,
+      "char_start_in_paragraph": 7138,
+      "char_end_in_paragraph": 7352,
+      "text": "a numerados entre el 1 y el 6, que están asintomáticos y con buena CF (4 mets o más) (nivel de evidencia C) Clase III 1. Pacientes de alto riesgo cardiovascular definido por criterios mayores (nivel de evidencia C)"
+    },
+    {
+      "section_label": "2.3.4 Ecografía Doppler color cardíaca",
+      "page_start": 11,
+      "page_end": 11,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 769,
+      "text": "Si bien la información disponible en el escenario de la cirugía no cardíaca es escasa y contradictoria, existiría una asociación entre las variables ecocardiográficas, tales como disfunción ventricular sistólica o diastólica o ambas, hipertrofia ventricular izquierda y valvulopatías moderadas a graves, con un mayor riesgo de padecer complicaciones perioperatorias. Entre estas variables, la disfunción ventricular sistólica acumula el mayor grado de evidencia (38-44). Los estudios que evaluaron el valor predictivo incremental del ecocardiograma sobre los factores de riesgo clínicos son escasos, y prácticamente nulos los que intentaron demostrar que los datos aportados por este método afectan favorablemente el manejo perioperatorio reduciendo las complicaciones."
+    },
+    {
+      "section_label": "2.3.4 Ecografía Doppler color cardíaca",
+      "page_start": 11,
+      "page_end": 11,
+      "char_start_in_paragraph": 649,
+      "char_end_in_paragraph": 1740,
+      "text": "r que los datos aportados por este método afectan favorablemente el manejo perioperatorio reduciendo las complicaciones. Un ensayo que evaluó 750 pacientes sometidos a cirugía no cardíaca mayor, a quienes su médico había so - licitado en los 3 meses previos un ecocardiograma, evidenció que −si bien este método no parece presentar un valor predictivo incremental entre los pacientes con bajo riesgo clínico (grupos I y II del RCRI)− su anormalidad dentro de los grupos con mayor riesgo (III y IV del RCRI) se asocia a un aumento de complicaciones mayores de alrededor de 4 veces. También demostró que, aun solicitados según el criterio clínico, hasta un 50% de los ecocardiogramas realizados en el preoperatorio resultarán normales. Los autores propusieron 5 predictores de ecocardiograma anormal (definido como aquel con disfunción ventricular, hipertrofia moderada o más, regurgita - ción moderada o más, o gradiente aórtico medio > 20 mm Hg) que son: edad ≥ 70 años, historia de insuficiencia cardíaca, la historia de IAM, presencia de un soplo grado II o mayor, e hipertrofia en el ECG."
+    },
+    {
+      "section_label": "2.3.4 Ecografía Doppler color cardíaca",
+      "page_start": 11,
+      "page_end": 11,
+      "char_start_in_paragraph": 1620,
+      "char_end_in_paragraph": 2650,
+      "text": "historia de insuficiencia cardíaca, la historia de IAM, presencia de un soplo grado II o mayor, e hipertrofia en el ECG. Si el paciente no tiene ninguno de estos predictores, el 83% de las veces el ecocardiograma será normal. Con uno de ellos o más, será anormal el 42% de las veces y el porcentaje aumentará progresivamente a medida que aumente el número de predictores. Semejante a las pruebas evocadoras de isquemia en este escenario, el ecocardiograma presenta una adecuada sensibilidad (80%) con un alto valor predictivo negativo (97%) y bajo valor predictivo positivo. A pesar de tal información, ni este estudio ni otros han demostrado que una estrategia guiada por ecocardiograma altere el pronóstico de estos pacientes (39,44). Sobre la base de la información presentada, no se recomienda la indicación sistemática del ecocardiograma para la evaluación de riesgo cardiovascular en cirugía no cardíaca. Su indicación deberá realizarse a partir de los antecedentes, los síntomas y los hallazgos del examen físico y del ECG."
+    },
+    {
+      "section_label": "2.3.4 Ecografía Doppler color cardíaca",
+      "page_start": 11,
+      "page_end": 11,
+      "char_start_in_paragraph": 2530,
+      "char_end_in_paragraph": 3392,
+      "text": "Su indicación deberá realizarse a partir de los antecedentes, los síntomas y los hallazgos del examen físico y del ECG. Recomendaciones sobre la indicación preoperatoria de eco-Doppler color cardíaco Clase I 1. Pacientes con (nivel de evidencia C): – Insuficiencia cardíaca descompensada – Historia de insuficiencia cardíaca sin ecocardiograma previo o con cambios en la clase funcional posteriores a él – Presencia de soplo con criterios de riesgo, sin ecocardiograma previo, o con cambios en la clase funcional posteriores a él Clase II-a 1. Pacientes con (nivel de evidencia C): – Sospecha o confirmación de secuela de IAM sin ecocardiograma previo – Alteraciones significativas del ECG no evaluadas previamente mediante ecocardiograma (nuevas ondas Q, hipertrofia ventricular izquierda, bloqueos completos de rama, alteraciones del segmento ST) Clase III 1."
+    },
+    {
+      "section_label": "2.3.4 Ecografía Doppler color cardíaca",
+      "page_start": 11,
+      "page_end": 11,
+      "char_start_in_paragraph": 3272,
+      "char_end_in_paragraph": 3597,
+      "text": "uevas ondas Q, hipertrofia ventricular izquierda, bloqueos completos de rama, alteraciones del segmento ST) Clase III 1. Indicación sistemática en pacientes menores de 70 años, sin historia de insuficiencia cardíaca o IAM, con ausencia de soplo grado II o mayor y sin alteración significativa en el ECG (nivel de evidencia C)"
+    },
+    {
+      "section_label": "2.3.5 Péptido natriurético cerebral (BNP y NT-pro-BNP)",
+      "page_start": 11,
+      "page_end": 12,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 948,
+      "text": "En los últimos años ha sido común recibir nueva información sobre el valor pronóstico de biomarcadores (troponi - nas, péptidos natriuréticos) en distintas poblaciones, ya sea sujetos “aparentemente” sanos, o bien portadores de enfermedades crónicas estables. En este contexto, el preoperatorio de la cirugía no cardíaca no es una excepción y existe cierta evidencia al respecto. Dos revisiones sistemáticas (45,46) demostraron que la elevación preoperatoria, tanto del BNP como del NT-pro-BNP , se asocian en forma independiente al desarrollo de complicaciones cardiovasculares mayores, a 30 días de la cirugía no cardíaca de alto riesgo. Es más, los resultados mostraron un valor incremental sobre la predicción basada en los índices de riesgo conocidos, como el ya mencionado RCRI. Impresiona de gran utilidad la capacidad para reclasificar hacia bajo o alto riesgo a los pacientes de riesgo moderado que serán sometidos a cirugía vascular (47)."
+    },
+    {
+      "section_label": "2.3.5 Péptido natriurético cerebral (BNP y NT-pro-BNP)",
+      "page_start": 11,
+      "page_end": 12,
+      "char_start_in_paragraph": 828,
+      "char_end_in_paragraph": 1442,
+      "text": "ra reclasificar hacia bajo o alto riesgo a los pacientes de riesgo moderado que serán sometidos a cirugía vascular (47). 11 Las limitaciones de la evidencia radican en que aún no se ha establecido un punto de corte óptimo para el BNP y el NT-pro-BNP , así como tampoco se ha validado su utilidad clínica para modificar conductas y consiguien - temente reducir los eventos cardiovasculares perioperatorios. Por estas razones, si bien los péptidos natriuréticos surgen como una herramienta promisoria, en la actualidad no podemos recomendar su uso rutinario en la estimación del riesgo cardiovascular perioperatorio."
+    },
+    {
+      "section_label": "2.4 Determinación e informe del riesgo cardiovascular clínico-quirúrgico",
+      "page_start": 12,
+      "page_end": 14,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 1090,
+      "text": "Este Consenso propone 3 etapas para la determinación del riesgo cardiovascular clínico-quirúrgico: Paso 1: determinar el riesgo clínico preoperatorio, en 3 categorías: alto, moderado y bajo Paso 2: determinar el riesgo de acuerdo con el tipo de cirugía, en 3 categorías: alto, moderado y bajo Paso 3: determinar el riesgo clínico-quirúrgico combinando el riesgo clínico definido en el paso 1 y el riesgo de la cirugía definido en el paso 2, obteniendo así 3 categorías: alto, moderado y bajo riesgo. PASO 1: Determinación del riesgo clínico preoperatorio Criterios mayores 1. Cirugía de urgencia o emergencia 2. Enfermedad coronaria de alto riesgo reciente (ocurrencia de IAM, síndrome coronario agudo o angina en CF 3 o 4 en los 6 meses previos a la cirugía) 3. Portador de estenosis aórtica o mitral severas Criterios menores 1. Edad > 70 años 2. Diabetes mellitus 3. Antecedente de enfermedad vascular periférica 4. Antecedente de enfermedad coronaria estable 5. Antecedente de insuficiencia cardíaca congestiva o fracción de eyección < 40% 6. Antecedente de accidente cerebrovascular 7."
+    },
+    {
+      "section_label": "2.4 Determinación e informe del riesgo cardiovascular clínico-quirúrgico",
+      "page_start": 12,
+      "page_end": 14,
+      "char_start_in_paragraph": 970,
+      "char_end_in_paragraph": 1533,
+      "text": "cedente de insuficiencia cardíaca congestiva o fracción de eyección < 40% 6. Antecedente de accidente cerebrovascular 7. Portador de insuficiencia mitral o aórtica severas 8. EPOC severa 9. Cáncer activo 10. Insuficiencia renal crónica (creatinina ≥ 2,0 mg/dL) Categorías de riesgo clínico preoperatorio A. Alto riesgo clínico 1. Si existen 1 o más criterios mayores, independientemente de la existencia de criterios menores 2. Si existen 2 o más criterios menores B. Moderado riesgo clínico 1. Si existe 1 criterio menor y ninguno mayor C. Bajo riesgo clínico 1."
+    },
+    {
+      "section_label": "2.4 Determinación e informe del riesgo cardiovascular clínico-quirúrgico",
+      "page_start": 12,
+      "page_end": 14,
+      "char_start_in_paragraph": 1413,
+      "char_end_in_paragraph": 2486,
+      "text": "más criterios menores B. Moderado riesgo clínico 1. Si existe 1 criterio menor y ninguno mayor C. Bajo riesgo clínico 1. No existe ningún criterio mayor ni menor Paso 2: Determinación del riesgo de la cirugía (muerte o IAM a 30 días) – Aórtica (cirugía y reparación endovascular) – Vascular periférica – Vascular mayor, otra – Torácica mayor* – General mayor† – Neurocirugía mayor– Abdominal, no incluidas en general mayor – Endarterectomía carotídea – Angioplastia periférica – Procedimientos endoscópicos terapéuticos – Cabeza y cuello – Ortopédica mayor‡ – Urológica o ginecológica mayor** – Mamas – Endocrina – Oftalmológica – Ginecológica menor – Plástica – Ortopédica menor – Urológica menor – Procedimientos endoscópicos diagnósticos – DentalAlto riesgo (> 5%) Moderado riesgo Bajo riesgo (< 1%) Véanse definiciones en el Apéndice. PASO 3: Determinación del riesgo clínico-quirúrgico y recomendaciones A. En presencia de ALTO riesgo clínico definido por algún criterio mayor, el riesgo clínico-quirúrgico debe con - siderarse ALTO frente a cualquier tipo de cirugía."
+    },
+    {
+      "section_label": "2.4 Determinación e informe del riesgo cardiovascular clínico-quirúrgico",
+      "page_start": 12,
+      "page_end": 14,
+      "char_start_in_paragraph": 2366,
+      "char_end_in_paragraph": 3237,
+      "text": "ido por algún criterio mayor, el riesgo clínico-quirúrgico debe con - siderarse ALTO frente a cualquier tipo de cirugía. Sin embargo, frente a cirugías de BAJO riesgo, debe primar el criterio clínico antes de seguir las conductas recomendadas a continuación. Recomendaciones o Si es una cirugía de urgencia o emergencia, proceder a la cirugía. La realización preoperatoria de un ECG y eco-Doppler cardíaco puede ser de utilidad para el manejo intraoperatorio y posoperatorio, siempre que su realización no demore el procedimiento. Se sugiere medición de troponina en el día 1 y 2 del posoperatorio e interconsulta con el cardiólogo dentro de las primeras 48 horas posoperatorias. o Si el paciente sufrió enfermedad coronaria de alto riesgo reciente, se recomienda indicar coronariografía y eventual revascularización, en caso de que no se haya realizado hasta el momento."
+    },
+    {
+      "section_label": "2.4 Determinación e informe del riesgo cardiovascular clínico-quirúrgico",
+      "page_start": 12,
+      "page_end": 14,
+      "char_start_in_paragraph": 3117,
+      "char_end_in_paragraph": 4042,
+      "text": "e recomienda indicar coronariografía y eventual revascularización, en caso de que no se haya realizado hasta el momento. Si el paciente fue revascula - rizado, sería prudente demorar la cirugía no cardíaca hasta cumplir 3 meses del episodio agudo, excepto que la colocación de un stent liberador de fármacos demande mayor tiempo (véase la sección “situaciones especiales”) y siempre que esto no sea contraproducente considerando la enfermedad de base (por ejemplo, cáncer). o Si el paciente tiene estenosis aórtica o mitral severas, se recomienda su resolución antes de la cirugía no car - díaca. o Si el criterio clínico aplicado frente a una cirugía de bajo riesgo (u otro riesgo) decidió no tratar las mencio - nadas valvulopatías o coronariopatías graves antes de la cirugía no cardíaca, se recomienda programar un turno con el cardiólogo luego de la cirugía para continuar con el manejo más apropiado de la situación. B."
+    },
+    {
+      "section_label": "2.4 Determinación e informe del riesgo cardiovascular clínico-quirúrgico",
+      "page_start": 12,
+      "page_end": 14,
+      "char_start_in_paragraph": 3922,
+      "char_end_in_paragraph": 4828,
+      "text": "programar un turno con el cardiólogo luego de la cirugía para continuar con el manejo más apropiado de la situación. B. En ausencia de criterios mayores , el riesgo clínico-quirúrgico debe definirse de acuerdo con el riesgo clínico definido por el número de criterios menores y el tipo de cirugía , de acuerdo con la siguiente tabla: Cirugía de riesgo bajo Cirugía de riesgo moderado Cirugía de riesgo alto Riesgo clínico bajo BAJO BAJO MODERADO Riesgo clínico moderado BAJO MODERADO ALTO Riesgo clínico alto BAJO ALTO ALTO Recomendaciones 1. Riesgo clínico-quirúrgico moderado o alto: o Si tiene algún criterio menor de la lista numerado entre el 1 y el 6, solicitar una prueba funcional inductora de isquemia (con ejercicio o farmacológica). • Resultado de alto riesgo isquémico de acuerdo con la Tabla 3: se aconseja indicar coronariografía y eventual revascularización antes de la cirugía no cardíaca."
+    },
+    {
+      "section_label": "2.4 Determinación e informe del riesgo cardiovascular clínico-quirúrgico",
+      "page_start": 12,
+      "page_end": 14,
+      "char_start_in_paragraph": 4708,
+      "char_end_in_paragraph": 5709,
+      "text": "cuerdo con la Tabla 3: se aconseja indicar coronariografía y eventual revascularización antes de la cirugía no cardíaca. • Resultado positivo para isquemia pero sin criterios de alto riesgo de la Tabla 3: se aconseja medicar con antiisquémicos (entre ellos betabloqueantes) y aspirina, informar al anestesiólogo y al cirujano (en el informe de riesgo) y sugerir la medición de troponina en el día 1 y 2 del posoperatorio. Solicitar interconsulta con el cardiólogo dentro de las primeras 48 horas posoperatorias y programar seguimiento posterior al alta. Alguno de los siguientes 1. Aparición de cambios ST y/o ángor a muy baja carga (< 3 mets) o a FC baja (<100 lpm) 2. Infra ST > 5 mm 3. Supra ST sin Q, > 2 mm en cualquier territorio 4. Presencia de arritmia ventricular compleja sostenida 5. Ángor rápidamente progresivo a intensidad 10/10. 6. Caída de la TA intraesfuerzo > 20 mm Hg 7. Dilatación transitoria de la cavidad del ventrículo izquierdo 8. Captación pulmonar aumentada del radioisótopo."
+    },
+    {
+      "section_label": "2.4 Determinación e informe del riesgo cardiovascular clínico-quirúrgico",
+      "page_start": 12,
+      "page_end": 14,
+      "char_start_in_paragraph": 5589,
+      "char_end_in_paragraph": 6493,
+      "text": "mm Hg 7. Dilatación transitoria de la cavidad del ventrículo izquierdo 8. Captación pulmonar aumentada del radioisótopo. Área isquémica > 20% 13 • Resultado normal: mantener el tratamiento que el paciente ya recibía, si se considera apropiado, y proceder a la cirugía sin más estudios. Se sugiere medición de troponina en los días 1 y 2 del posoperatorio. o Si solo tiene algún criterio menor de la lista numerado entre el 7 y el 10, o no tiene ningún criterio menor, se recomienda proceder a la cirugía sin más estudios. Se aconseja aplicar el criterio médico adecuado para el tratamiento preoperatorio de las comorbilidades descriptas, por ejemplo hidratación en la insuficiencia renal, valoración del estado hemodinámico en las insuficiencias valvulares (sería de utilidad disponer de un eco- Doppler color cardíaco dentro de los últimos 6 meses) y revisión del tratamiento broncodilatador en EPOC. 2."
+    },
+    {
+      "section_label": "2.4 Determinación e informe del riesgo cardiovascular clínico-quirúrgico",
+      "page_start": 12,
+      "page_end": 14,
+      "char_start_in_paragraph": 6373,
+      "char_end_in_paragraph": 7248,
+      "text": "de un eco- Doppler color cardíaco dentro de los últimos 6 meses) y revisión del tratamiento broncodilatador en EPOC. 2. Si el riesgo clínico-quirúrgico es bajo: o Si el paciente tiene algún criterio menor de los numerados entre el 1 y el 6 y se encuentra estable (asintomático para angina o disnea) con capacidad funcional conservada (4 mets), se puede proceder a la cirugía sin más estudios. o Si el paciente tiene algún criterio menor de la lista de los numerados entre el 1 y el 6 y presenta angina o disnea en CF 1-2, o está asintomático pero vive en una baja CF (menos de 4 mets), se sugiere realizar prueba inductora de isquemia (con ejercicio o farmacológica). • Resultado de alto riesgo isquémico de acuerdo con la Tabla 3: se aconseja indicar coronariografía y eventual revascularización antes o después de la cirugía no cardíaca de acuerdo con el criterio clínico."
+    },
+    {
+      "section_label": "2.4 Determinación e informe del riesgo cardiovascular clínico-quirúrgico",
+      "page_start": 12,
+      "page_end": 14,
+      "char_start_in_paragraph": 7128,
+      "char_end_in_paragraph": 8157,
+      "text": "ronariografía y eventual revascularización antes o después de la cirugía no cardíaca de acuerdo con el criterio clínico. Si se decide revascularizar después del procedimiento, se aconseja indicar antiisquémicos (entre ellos betabloqueantes) y aspirina durante el perioperatorio, e informar al anestesiólogo y al cirujano (en el informe de riesgo). Si es factible, sería de utilidad medir troponina en los días 1 y 2 del posoperatorio si permanece internado, solicitar interconsulta con el cardiólogo dentro de las primeras 48 horas posoperatorias y programar se - guimiento posterior al alta. • Resultado positivo para isquemia pero sin criterios de alto riesgo de la Tabla 3: se aconseja medicar con antiisquémicos (entre ellos betabloqueantes) y aspirina durante el perioperatorio, informar al anestesiólogo y al cirujano (en el informe de riesgo) y sugerir la medición de troponina en los días 1 y 2 del posoperatorio si permanece internado. Programar visita con el cardiólogo luego de la cirugía no cardíaca para seguimiento."
+    },
+    {
+      "section_label": "2.4 Determinación e informe del riesgo cardiovascular clínico-quirúrgico",
+      "page_start": 12,
+      "page_end": 14,
+      "char_start_in_paragraph": 8037,
+      "char_end_in_paragraph": 8843,
+      "text": "soperatorio si permanece internado. Programar visita con el cardiólogo luego de la cirugía no cardíaca para seguimiento. • Resultado normal: mantener el tratamiento que el paciente ya recibía, si se considera apropiado, y proceder a la cirugía sin más estudios. o Si solo tiene algún criterio menor de la lista numerado entre el 7 y el 10, o no tiene ningún criterio menor, se recomienda proceder a la cirugía sin más estudios. Se aconseja aplicar el criterio médico adecuado para el tratamiento preoperatorio de las comorbilidades descriptas, por ejemplo hidratación en la insuficiencia renal, valoración del estado hemodinámico en las insuficiencias valvulares (sería de utilidad disponer de un eco- Doppler color cardíaco dentro de los últimos 6 meses) y revisión de tratamiento broncodilatador en EPOC."
+    },
+    {
+      "section_label": "2.4 Determinación e informe del riesgo cardiovascular clínico-quirúrgico",
+      "page_start": 12,
+      "page_end": 14,
+      "char_start_in_paragraph": 8723,
+      "char_end_in_paragraph": 9728,
+      "text": "oner de un eco- Doppler color cardíaco dentro de los últimos 6 meses) y revisión de tratamiento broncodilatador en EPOC. Algunas consideraciones A pesar de que el manejo recomendado en pacientes con riesgo cardiovascular clínico-quirúrgico alto (por cri - terio menores) y moderado es semejante, se hace la distinción en 2 categorías diferentes porque sirven a modo informativo como descripción del riesgo para el paciente, la familia y el equipo médico. En muchas ocasiones, esta valoración de riesgo podría pesar en la toma de decisiones hacia suspender un procedimiento quirúrgico cuando se estime que el beneficio potencial es inferior al riesgo. Con respecto a la prueba funcional evocadora de isquemia, consideramos que, si el paciente dispone de una prueba realizada durante los últimos 6 meses, no es necesario repetirla, excepto si ha cambiado su condición clínica. Con respecto al tratamiento antiisquémico preoperatorio, remitimos al lector a las secciones de este Consenso dedicadas a tal fin."
+    },
+    {
+      "section_label": "2.5 Sugerencia de formato del informe del riesgo cardiovascular preoperatorio en cirugía no cardíaca",
+      "page_start": 14,
+      "page_end": 15,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 1007,
+      "text": "Véase Apéndice (A2). 3. ESTRATEGIAS QUE PUEDEN MODIFICAR LOS RESULTADOS La experiencia del grupo quirúrgico, la selección de la táctica operatoria y la técnica anestésica, así como los cuidados perioperatorios, pueden influir sustancialmente en los resultados inmediatos y alejados. Por esta razón, sobre todo en los casos de excesivo riesgo, el cirujano tratante, el anestesiólogo y el cardiólogo deben discutir las posibilidades terapéuticas, que pueden ir desde optar por los procedimientos menos invasivos hasta un manejo no quirúrgico de la enfermedad causal. Incluso en algunas ocasiones será preferible postergar la decisión quirúr - gica hasta completar estudios y estabilizar al paciente. Sin embargo, el espíritu de este Consenso impulsa a “no demorar ninguna cirugía no cardíaca dado el riesgo de avance o complicación de la enfermedad de base”, excepto en casos de muy elevado riesgo cardiovascular determinado por una razón claramente tratable de acuerdo con la evidencia científica disponible."
+    },
+    {
+      "section_label": "2.5 Sugerencia de formato del informe del riesgo cardiovascular preoperatorio en cirugía no cardíaca",
+      "page_start": 14,
+      "page_end": 15,
+      "char_start_in_paragraph": 887,
+      "char_end_in_paragraph": 1864,
+      "text": "o riesgo cardiovascular determinado por una razón claramente tratable de acuerdo con la evidencia científica disponible. Las complicaciones cardiovasculares más frecuentes en pacientes con cardiopatía sometidos a procedimientos mayores están relacionadas con la isquemia miocárdica perioperatoria, frecuentemente causada por el estrés quirúrgico. Por esa razón, la mayoría de las medidas se orientan a su diagnóstico, al tratamiento antiisquémico y a la mejoría de las situaciones que la favorecen (anemia, hipovolemia, hipoxia, etc.). Como vimos antes, no existe evidencia contundente que favorezca un tipo de anestesia sobre otro. Sin embar - go, una analgesia y sedación correctas reducen la estimulación adrenérgica y la hipercoagulabilidad sanguínea y, por lo tanto, el riesgo de isquemia y de complicaciones cardiovasculares. Con respecto a las indicaciones perioperatorias para reducir los riesgos, hemos focalizado las de uso corriente y la monitorización de troponina."
+    },
+    {
+      "section_label": "2.5 Sugerencia de formato del informe del riesgo cardiovascular preoperatorio en cirugía no cardíaca",
+      "page_start": 14,
+      "page_end": 15,
+      "char_start_in_paragraph": 1744,
+      "char_end_in_paragraph": 2134,
+      "text": "ciones perioperatorias para reducir los riesgos, hemos focalizado las de uso corriente y la monitorización de troponina. Como veremos, muchas decisiones en pacientes portadores de condiciones car - diovasculares cuyo manejo no está sustentado por evidencia definitiva se basan en el criterio médico-cardiológico de aplicación habitual en un paciente idéntico, aunque no candidato a cirugía."
+    },
+    {
+      "section_label": "3.1.1 Aspirina",
+      "page_start": 15,
+      "page_end": 16,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 1089,
+      "text": "El ácido acetilsalicílico (AAS), comúnmente conocido como aspirina, está indicado para la prevención secundaria de eventos cardiovasculares y también en algunos subgrupos de pacientes para prevención primaria. Su utilidad en el período perioperatorio de una cirugía no cardíaca no está claramente establecida. Indudablemente, el balance entre el potencial beneficio y el riesgo de hemorragia es crucial en la decisión sobre continuarlo o discontinuarlo en aquellos casos con prescripciones crónicas, o bien su iniciación perioperatoria ante el riesgo cardiovascular elevado en aquellos que no lo recibían previamente. El AAS inhibe en forma irreversible la ciclooxigenasa 1 (COX 1) mediante la acetilación de su residuo de serina, evitando que el ácido araquidónico se una al sitio activo de la enzima e inhibiendo así la producción de tromboxano A2, que es un potente activador plaquetario. Las plaquetas carecen de núcleo celular y por lo tanto no tienen la capacidad de sintetizar proteínas, razón por la cual la inhibición de la agregación continúa durante la vida útil de la plaqueta."
+    },
+    {
+      "section_label": "3.1.1 Aspirina",
+      "page_start": 15,
+      "page_end": 16,
+      "char_start_in_paragraph": 969,
+      "char_end_in_paragraph": 1990,
+      "text": "de sintetizar proteínas, razón por la cual la inhibición de la agregación continúa durante la vida útil de la plaqueta. Para revertir este proceso es necesario que se produzcan nuevas plaquetas en la médula ósea o se le administren plaquetas al individuo. Como hemos mencionado antes, el período perioperatorio está caracterizado por la presencia de mediadores proinflamatorios y protrombóticos (fibrinógeno, proteína C reactiva, inhibidor del activador tisular del plasminó - geno, catecolaminas, aumento de la activación plaquetaria y disminución de la fibrinólisis) que pueden facilitar un evento vascular y así justificar el uso de aspirina en el perioperatorio. Sin embargo, la antiagregación plaquetaria podría implicar un aumento de la predisposición al sangrado. Un metaanálisis de 474 estudios, de los cuales solo 10 eran aleatorizados (48), no evidenció aumento del sangrado posoperatorio en los diferentes tipos de cirugía, excepto en la prostatectomía y la tonsilectomía, en las que se observó su incremento."
+    },
+    {
+      "section_label": "3.1.1 Aspirina",
+      "page_start": 15,
+      "page_end": 16,
+      "char_start_in_paragraph": 1870,
+      "char_end_in_paragraph": 2935,
+      "text": "n los diferentes tipos de cirugía, excepto en la prostatectomía y la tonsilectomía, en las que se observó su incremento. Para este Consenso realizamos una búsqueda de estudios aleatorizados publicados en cualquier idioma que hayan comparado la administración preoperatoria de AAS versus control, ya sea discontinuación en los que estaban recibiéndola, o inicio en los que no la recibían. Consideramos muerte, IAM y ACV a 30 días posprocedi - miento como puntos finales. También revisamos la ocurrencia de hemorragia mayor. Se seleccionaron 5 estudios aleatorizados, a saber: 1. PEP (49) evaluó la administración de aspirina versus placebo en 13.356 pacientes con fractura de cadera sometidos a cirugía, con el objetivo primario de evaluar la incidencia de trombosis venosa profunda (TVP) y tromboembolia de pulmón (TEP). El AAS mostró ser superior al placebo en dichos puntos finales, y no se observaron diferencias con respecto a mortalidad y IAM. Sin embargo, se observó un exceso de sangrado con requerimiento de transfusión en el grupo AAS. 2. Oscarsson y cols."
+    },
+    {
+      "section_label": "3.1.1 Aspirina",
+      "page_start": 15,
+      "page_end": 16,
+      "char_start_in_paragraph": 2815,
+      "char_end_in_paragraph": 3684,
+      "text": "AM. Sin embargo, se observó un exceso de sangrado con requerimiento de transfusión en el grupo AAS. 2. Oscarsson y cols. (50) incluyeron 220 pacientes en plan de cirugía electiva de moderado o alto riesgo (trauma - tológicas, urológicas y de tubo digestivo), aleatorizados a recibir 75 mg de aspirina o placebo. Si bien el estudio fue detenido tempranamente, tampoco hubo diferencias entre ambos grupos en la incidencia de muerte o IAM, ni en los parámetros de sangrado posoperatorio. 3. El estudio STRATAGEM (51) incluyó 291 pacientes en plan de cirugía mayor no cardíaca, aleatorizados a recibir 75 mg de AAS o placebo durante 10 días previos al procedimiento. El estudio planeaba incluir 1.421 pacientes pero se detuvo prematuramente por falta de reclutamiento. Los resultados no mostraron diferencias significativas en eventos trombóticos, hemorrágicos o muerte. 4."
+    },
+    {
+      "section_label": "3.1.1 Aspirina",
+      "page_start": 15,
+      "page_end": 16,
+      "char_start_in_paragraph": 3564,
+      "char_end_in_paragraph": 4579,
+      "text": "reclutamiento. Los resultados no mostraron diferencias significativas en eventos trombóticos, hemorrágicos o muerte. 4. APAP (52) fue un estudio piloto que incluyó 52 pacientes que recibían AAS, en plan de cirugía abdominal electiva (colecistectomía, hernia inguinal y colorrectal), aleatorizados a continuar o suspender 5 días antes y reiniciar 5 días después. No se observaron diferencias entre ambos grupos en cuanto a eventos trombóticos o hemorrágicos (hubo 1 solo evento en total). 5. POISE-2 (53) aleatorizó 10.010 pacientes a recibir AAS o placebo (ya sea en los que venían recibiendo AAS, o bien como inicio preoperatorio en los que no lo recibían) en el caso de aquellos pacientes sometidos a una 15 cirugía no cardíaca mayor con riesgo cardiovascular elevado. El punto final primario (muerte y IAM no fatal) ocurrió en el 7% del grupo AAS y el 7,1% del grupo placebo (p = 0,92). Respecto del sangrado mayor, fue más frecuente con AAS (4,6%) que con placebo (3,8%) (HRa 1,23, IC 95% 1,01-1,49, p = 0,04)."
+    },
+    {
+      "section_label": "3.1.1 Aspirina",
+      "page_start": 15,
+      "page_end": 16,
+      "char_start_in_paragraph": 4459,
+      "char_end_in_paragraph": 5437,
+      "text": "ecto del sangrado mayor, fue más frecuente con AAS (4,6%) que con placebo (3,8%) (HRa 1,23, IC 95% 1,01-1,49, p = 0,04). Los puntos finales mencionados fueron semejantes en los 2 estratos de AAS (los que recibían y los que iniciaron). Nuestro metaanálisis ( Figura 1 ) incluyó 23.959 pacientes, con un total de 1.043 fallecidos, 698 IAM, 103 ACV y 795 hemorragias mayores. No se observaron diferencias significativas en la tasa de muerte (RR 0,98, IC 95% 0,87-1,10), IAM (RR 1,05, IC 95% 0,70-1,59) ni ACV (RR 1,02, IC 95% 0,69-1,50) con el uso de AAS o placebo en el perioperatorio. En cambio, se observó un aumento significativo de la tasa de hemorragia mayor (RR 1,24, IC 95% 1,08-1,42) con el uso de AAS. Solo se observó heterogeneidad moderada en el IAM (I2 43%); el resto de los análisis fueron no heterogéneos. Con respecto a la calidad de la evidencia, según el análisis de GRADE ( Tabla 4 ), resultó ser alta para mor - talidad y hemorragia, y moderada para IAM y ACV ."
+    },
+    {
+      "section_label": "3.1.1 Aspirina",
+      "page_start": 15,
+      "page_end": 16,
+      "char_start_in_paragraph": 5317,
+      "char_end_in_paragraph": 6346,
+      "text": "a, según el análisis de GRADE ( Tabla 4 ), resultó ser alta para mor - talidad y hemorragia, y moderada para IAM y ACV . En “limitaciones o riesgo de sesgos” no se descontaron ni - veles a pesar de que 2 estudios fueron detenidos tempranamente. Fueron estudios pequeños y los resultados no mostraron diferencias, por lo cual difícilmente pudieron haber inducido sesgos. En el análisis de la imprecisión, descontamos 1 nivel en ACV . Respecto de la inconsistencia, descontamos un nivel en el punto final IAM, dado que se observó heterogeneidad moderada. De acuerdo con la evidencia disponible de los estudios individuales y, sobre todo, de nuestro metaanálisis, la administración de aspirina preoperatoria, ya sea su continuación o su inicio, no ha mostrado beneficios en términos de complicaciones trombóticas y sí ha incrementado la ocurrencia de hemorragia mayor en pacientes con riesgo cardiovascular aumentado. Esta evidencia surge de pacientes con historia vascular y sin ella, que se encontra - ban en situaciones estables."
+    },
+    {
+      "section_label": "3.1.1 Aspirina",
+      "page_start": 15,
+      "page_end": 16,
+      "char_start_in_paragraph": 6226,
+      "char_end_in_paragraph": 7060,
+      "text": "tado. Esta evidencia surge de pacientes con historia vascular y sin ella, que se encontra - ban en situaciones estables. Por lo tanto, no podemos extrapolarla a situaciones isquémicas agudas recientes. Recomendaciones sobre el uso de aspirina Clase I – En pacientes que reciben AAS en forma crónica (por IAM, ACV , enfermedad coronaria, carotídea o arterial periférica) se recomienda suspenderla 3 o más días antes de la cirugía no cardíaca, y reiniciarla no antes de 1 semana luego de esta (nivel de evidencia A). Clase II-a – En pacientes con historia de intervención coronaria percutánea, ya sea con stents liberadores de fármacos (dentro de los 12 meses) o convencionales (dentro de las 6 semanas) se recomienda continuar la administración de AAS en baja dosis (75-100 mg) durante el período perioperatorio (nivel de evidencia C)."
+    },
+    {
+      "section_label": "3.1.1 Aspirina",
+      "page_start": 15,
+      "page_end": 16,
+      "char_start_in_paragraph": 6940,
+      "char_end_in_paragraph": 7916,
+      "text": "a continuar la administración de AAS en baja dosis (75-100 mg) durante el período perioperatorio (nivel de evidencia C). – En pacientes que sufrieron un SCA en los últimos 12 meses y que no se encuentran comprendidos en el punto anterior se recomienda, hecha la evaluación de riesgo-beneficio (trombosis/sangrado), contemplar la adminis - tración de AAS en baja dosis (75-100 mg) durante el período perioperatorio. (Nivel de evidencia C). – Indicar AAS en el período posoperatorio a los pacientes que sufren eventos isquémicos agudos (IAM o ACV) durante su transcurso, siempre y cuando el riesgo hemorrágico lo permita y con el acuerdo del equipo quirúr - gico (nivel de evidencia C). Clase III – Indicar aspirina a aquellos que no la toman crónicamente, o no suspenderla en aquellos que sí lo hacen por sus antecedentes (por IAM, ACV , enfermedad coronaria, carotídea o arterial periférica) y que no se encuentran contemplados en las indicaciones II-a (nivel de evidencia A)."
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 1088,
+      "text": "Los betabloqueantes están indicados en múltiples condiciones cardiovasculares, tales como la enfermedad corona - ria estable, los síndromes coronarios agudos, la hipertensión arterial y las arritmias e insuficiencia cardíaca. En el perioperatorio de la cirugía no cardíaca, la alta tasa de eventos cardiovasculares ha sido atribuida a múltiples mecanismos fisiopatológicos, entre los que se destaca el aumento de los niveles de catecolaminas circulantes por el estrés quirúrgico, que desencadenan un aumento de la frecuencia cardíaca, de la presión arterial y de la liberación de ácidos grasos. Además, el estado de hipercoagulabilidad, inflamación e hipoxia han sido planteados como consecuencias probables. Durante los últimos años se publicaron diversos estudios clínicos y metaanálisis sobre la indicación de be - tabloqueantes en el perioperatorio de la cirugía no cardíaca, que han sido incorporados a las guías clínicas de distintas sociedades científicas. Sin embargo, al día de hoy, existen aspectos aún no debidamente aclarados sobre su utilización en el período perioperatorio."
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 968,
+      "char_end_in_paragraph": 1605,
+      "text": "embargo, al día de hoy, existen aspectos aún no debidamente aclarados sobre su utilización en el período perioperatorio. Para enunciar las recomendaciones realizamos una revisión sistemática, seleccionando estudios sin restric - ciones idiomáticas, aleatorizados, que incluyeran más de 200 pacientes, de manera de acumular un número de eventos suficientes que disminuyeran la posibilidad de hallazgos influenciados fuertemente por el azar. Excluimos aquellos que evaluaron betabloqueantes en forma intravenosa, ya que son resorte del anestesiólogo y escapan al manejo del cardiólogo clínico a quien están dirigidas estas recomendaciones."
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 1485,
+      "char_end_in_paragraph": 2585,
+      "text": "son resorte del anestesiólogo y escapan al manejo del cardiólogo clínico a quien están dirigidas estas recomendaciones. Los estudios aleatorizados incluidos en nuestro metaanálisis fueron:Mortalidad a 30 días AAS Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% APAP 2012 0 26 0 26 Not Estimable Oscarsson 2010 2 109 2 111 0,4% 1,02 [0,15 7,10] PEP 2000 447 6679 461 6677 87,7% 0,97 [0,85 1,10] POISE-2 65 4998 62 5012 11,6% 1,05 [0,74 1,49] STRATAGEM 2010 2 145 2 146 0,4% 1,01 [0,14 7,05] TOTAL IC 95% 11957 11972 100% 0,98 [0,87 1,10] Total Eventos 516 527 Heterogeneidad: Tau2 = 0,00; Chi2 = 0,19, df = 3 (P = 0,98); I2 = 0% Prueba del efecto global: Z = 0,36 (P 0,72) IAM a 30 días AAS Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% APAP 2012 0 26 0 26 Not Estimable Oscarsson 2010 2 109 7 111 6,4% 0,29 [0,06 1,37] PEP 2000 36 6679 23 66"
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 2465,
+      "char_end_in_paragraph": 3565,
+      "text": "os, IC del 95% APAP 2012 0 26 0 26 Not Estimable Oscarsson 2010 2 109 7 111 6,4% 0,29 [0,06 1,37] PEP 2000 36 6679 23 6677 30,90% 1,56 [0,93 2,64] POISE-2 309 4998 315 5012 56,6% 0,98 [0,85 1,15] STRATAGEM 2010 3 145 3 146 6,1% 1,01 [0,21 4,91] TOTAL IC 95% 11957 11972 100% 1,05 [0,70 1,59] Total Eventos 350 348 ACV a 30 días AAS Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% APAP 2012 0 2 0 26 Not Estimable Oscarsson 2010 2 109 2 111 4,0% 1,02 [0,15 7,10] PEP 2000 34 6679 30 6677 62,2% 1,13 [0,69 1,85] POISE-2 16 4998 19 5012 33,9% 0,84 [0,44 1,64] STRATAGEM 2010 0 145 0 146 Not Estimable TOTAL IC 95% 11957 11972 100% 1,02 [0,69 1,50] Total Eventos 52 51 Heterogeneidad: Tau2 = 0,00; Chi2 = 0,49, df = 2 (P = 0,78); I2 = 0% Prueba del efecto global: Z = 0,11 (P 0,91) Hemorragia Mayor AAS Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 9"
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 3445,
+      "char_end_in_paragraph": 4443,
+      "text": "grupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% APAP 2012 1 26 0 26 0,2% 3,00 [0,13 70,42] Oscarsson 2010 2 109 0 111 0,2% 5,09 [0,25 104,84] PEP 2000 197 6679 157 6677 44,0% 1,25 [1,02 1,54] POISE-2 230 4998 188 5012 52,9% 1,23 [1,02 1,48] STRATAGEM 2010 110 145 10 146 2,6% 1,01 [0,43 2,35] TOTAL IC 95% 11957 11972 100% 1,24 [1,08 1,42] Total Eventos 440 335 Heterogeneidad: Tau2 = 0,00; Chi2 = 0,40, df = 4 (P = 0,84); I2 = 0% Prueba del efecto global: Z = 3,05 (P 0,002) Fig. 1. Metaanálisis de aspirina vs, control en el período perioperatorio de la cirugía no cardíaca 17 1. Estudio DIPOM (54): incluyó 921 pacientes diabéticos a recibir metoprolol o placebo durante las 24 horas previas a una cirugía no cardíaca y continuarlos durante 8 días posoperatorios. El punto final combinó muer - te, IAM, angina inestable e insuficiencia cardíaca y no mostró diferencias significativas entre las 2 ramas de tratamiento. 2."
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 4323,
+      "char_end_in_paragraph": 5400,
+      "text": "M, angina inestable e insuficiencia cardíaca y no mostró diferencias significativas entre las 2 ramas de tratamiento. 2. Estudio MaVS (55): incluyó 496 pacientes en plan de cirugía vascular aleatorizados a recibir metoprolol o placebo 2 horas antes de la cirugía y prolongarlos hasta el alta o un máximo de 5 días. El punto final primario incluyó una combinación de eventos cardiovasculares y tampoco mostró diferencias significativas a favor de ninguna rama de tratamiento. 3. Estudio BBSA (56): se reclutaron en forma multicéntrica 224 pacientes en plan de cirugía con bloqueo espinal, aleatorizados a recibir bisoprolol o placebo. Los resultados no mostraron diferencias a 1 año en términos de eventos cardiovasculares. 4. Estudio POISE (4): se aleatorizaron 8.351 pacientes de moderado a alto riesgo en plan de cirugía no cardíaca a recibir metoprolol o placebo 2 a 4 horas antes del procedimiento, y continuarlo por 30 días. El punto final primario fue el combinado de muerte, IAM y paro cardíaco no fatal y mostró una incidencia menor en el grupo betabloqueante (5,8% vs."
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 5280,
+      "char_end_in_paragraph": 6214,
+      "text": "el combinado de muerte, IAM y paro cardíaco no fatal y mostró una incidencia menor en el grupo betabloqueante (5,8% vs. 6,9%, HRa 0,84, IC 95% 0,70-0,99, p = 0,039), con una incidencia significativamente menor de IAM, pero con un aumento significativo de la mortalidad y del ACV a 30 días, analizados como puntos finales secundarios. Sobre un total de 9.988 pacientes, de los cuales fallecieron 267, nuestro metaanálisis mostró un aumento significativo de la mortalidad total con los betabloqueantes (RR 1,31, IC 95% 1,03-1,66), sin evidencias de hete - rogeneidad estadística en los resultados (I2 = 0). ( Figura 2 ). Con respecto al IAM, sobre 460 eventos, se observó una reducción significativa (RR 0,76, IC 95% 0,63-0,91) con el uso de betabloqueantes, mientras que el ACV aumentó en forma significativa con ellos (RR 2,21, IC 95% 1,34-3,66). En el análisis acumulado de estos 2 últimos eventos tampoco se observó heterogeneidad."
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 6094,
+      "char_end_in_paragraph": 7184,
+      "text": "llos (RR 2,21, IC 95% 1,34-3,66). En el análisis acumulado de estos 2 últimos eventos tampoco se observó heterogeneidad. La calificación de la evidencia mediante GRADE señaló una calidad moderada para el punto final mortalidad y ACV a 30 días, y alta para IAM a 30 días posoperatorios ( Tabla 5 ). En relación con las limitaciones metodo - lógicas a través de los estudios no descontamos niveles, dada la calidad de los ensayos seleccionados en general. Tampoco descontamos en indireccionalidad ni en inconsistencia. Solamente descontamos 1 nivel en imprecisión para los puntos finales muerte y ACV a 30 días, dado el escaso número de eventos. La totalidad de la evidencia analizada consideró la indicación de betabloqueantes o placebo en pacientes que no los tomaban previamente, y todos los ensayos evaluaron la indicación dentro de las 24 horas previas a la cirugía, particularmente muy cercana a ella (dentro de las 4 horas previas en el estudio más grande). No existe evidencia que considere su suspensión en quienes los utilizaban crónicamente. De hecho, en el estudio POISE, Tabla 4."
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 7064,
+      "char_end_in_paragraph": 8161,
+      "text": "te evidencia que considere su suspensión en quienes los utilizaban crónicamente. De hecho, en el estudio POISE, Tabla 4. Calidad de la evidencia (según GRADE) de AAS vs. control en el perioperatorio de cirugía no cardíaca Evaluación de la calidad N.° de pacientes Efecto N.° de Diseño Riesgo Inconsis- Evidencia Impre- Otras AAS Control Relativo Absoluto Calidad Impor- estudios de de tencia indirecta cisión considera- (CI 95%) (CI 95%) tancia estudio sesgo ciones Muerte (seguimiento: mediana 30 días) 5 Ensayos No es No es No es No es Ninguna 516/11.957 527/11.972 RR 0,98 1 menos ⊕⊕⊕⊕ CRÍTICA aleatorizados impor- impor- importamte impor- (4,3%) (4,4%) (0,87 1,10) por 1.000 ALTA tante tante tante (de 4 más a 6 menos) Infarto agudo de miocardio (seguimiento: mediana 30 días ) 5 Ensayos No es Impor- No es No es Ninguna 350/11.957 348/11.972 RR 1,05 1 más por ⊕⊕⊕ CRÍTICA aleatorizados impor- tante 1 importamte impor- (2,9%) (2,9%) (0,70 a 1,59) 1.000 (de 9 MODERADO1 tante tante menos a 17 más) ACV (seguimiento: mediana 30 días) 5 Ensayos No es No es No es Impor- Ninguna 52/11.957 51/11."
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 8041,
+      "char_end_in_paragraph": 9078,
+      "text": "nte tante menos a 17 más) ACV (seguimiento: mediana 30 días) 5 Ensayos No es No es No es Impor- Ninguna 52/11.957 51/11.972 RR 1,02 0 menos ⊕⊕⊕ CRÍTICA aleatorizados impor- impor- importante tante2 (0,4%) (0,4%) (0,69 a 1,50) por 1.000 MODERADO2 tante tante (de 1 menos a 2 más) Hemorragia mayor (seguimiento: mediana 30 días) 5 Ensayos No es No es No es No es Ninguna 440/11.957 355/11.972 RR 1,24 7 más por ⊕⊕⊕⊕ CRÍTICA aleatorizados impor- impor- impor- impor- (3,7%) (3,0%) (1,08 a 1,42) 1.000 (de 2 ALTA tante tante tante tante más a 12 más) MD,diferencia de medias; RR, riesgo relativo. AT.:¿dónde aparece MD? 1Heterogeneidad moderada, de 43%. 2IC no es suficientemente angosto. esa condición fue un criterio de exclusión (4). Por lo tanto, este Consenso no puede realizar recomendaciones sólidas en ese terreno. En resumen, en pacientes que toman betabloqueantes crónicamente, sobre todo aquellos portadores de car - diopatía isquémica con isquemia inducible, sugerimos continuar el tratamiento durante el período perioperatorio."
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 8958,
+      "char_end_in_paragraph": 9674,
+      "text": "e car - diopatía isquémica con isquemia inducible, sugerimos continuar el tratamiento durante el período perioperatorio. En aquellos casos a los que se les detecta isquemia miocárdica en la evaluación prequirúrgica, sugerimos iniciar betabloqueantes y titular la dosis, al menos, 5 a 7 días antes de la cirugía no cardíaca. En ambas situaciones mencionadas, si bien existe un riesgo potencial de hipotensión arterial intraoperatoria, creemos que el criterio médico debe guiar con precaución la indicación o suspensión de la última o las últimas dosis correspondientes a las horas previas a la cirugía, frente a cada paciente individual. Recomendaciones sobre el uso de betabloqueantes Clase I – Ninguna Clase II-a 1."
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 9554,
+      "char_end_in_paragraph": 10165,
+      "text": "ugía, frente a cada paciente individual. Recomendaciones sobre el uso de betabloqueantes Clase I – Ninguna Clase II-a 1. En pacientes medicados crónicamente con betabloqueantes por enfermedad coronaria estable con isquemia inducible, síndrome coronario agudo en el último año, hipertensión arterial, fibrilación auricular (control de FC) o insuficiencia cardíaca, continuarlos durante el período perioperatorio, manteniendo o suspendiendo la última o las últimas dosis correspondientes a las horas previas a la cirugía, de acuerdo con el criterio médico frente a cada paciente individual (nivel de evidencia C)."
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 10045,
+      "char_end_in_paragraph": 11145,
+      "text": "horas previas a la cirugía, de acuerdo con el criterio médico frente a cada paciente individual (nivel de evidencia C).Mortalidad total a 30 años Bbloqueantes Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% BBSA 2007 1 110 1 109 0,8% 0,99 [0,06 15,64 ] DIPOM 2006 20 462 15 459 13,3% 1,32 [0,69 2,55 ] MaVS 2006 0 247 4 250 0,7% 0,11 [0,01 2,08 ] POISE 2008 129 4174 97 4177 85,2% 1,33 [1,03 1,73 ] TOTAL IC 95% 4993 4995 100% 1,31 [1,03 1,66] Total Eventos 150 117 Heterogeneidad: Tau2 = 0,00; Chi2 = 2,80, df = 3 (P = 0,82); I2 = 0% Prueba del efecto global: Z = 2,18 (P 0,003) IAM a 30 días Bbloqueantes Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% BBSA 2007 0 110 0 109 Not Estimable DIPOM 2006 3 462 23 459 1,0% 1,49 [2,25 8,88 ] MaVS 2006 19 247 21 250 9,1% 0,95 [0,51 1,66 ] POISE 2008 176 4174 239 4177 89,8% 0,74 [0,61 0,89 ] TOTAL"
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 11025,
+      "char_end_in_paragraph": 12000,
+      "text": "9 [2,25 8,88 ] MaVS 2006 19 247 21 250 9,1% 0,95 [0,51 1,66 ] POISE 2008 176 4174 239 4177 89,8% 0,74 [0,61 0,89 ] TOTAL IC 95% 4993 4995 100% 0,76 [0,63 0,91 ] Total Eventos 192 262 Heterogeneidad: Tau2 = 0,00; Chi2 =1,02, df = 2 (P = 0,60); I2 = 0% Prueba del efecto global: Z = 3,03 (P 0,002) ACV a 30 días Bbloqueantes Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% BBSA 2007 1 110 0 109 2,5% 2,97 [0,12 72,19 ] DIPOM 2006 2 462 0 459 2,7% 4,97 [0,24 103,19 ] MaVS 2006 4 247 2 250 8,9% 2,02 [0,37 10,95 ] POISE 2008 41 4174 19 4177 85,9% 2,16 [1,26 3,71 ] TOTAL IC 95% 4993 4995 100% 2,21 [1,34 3,66 ] Total Eventos Heterogeneidad: Tau2 = 0,00; Chi2 =0,33, df = 3 (P = 0,96); I2 = 0% Prueba del efecto global: Z = 3,10 (P 0,002) Fig. 2. Metaanálisis de betabloqueantes vs, control en el período perioperatorio de la cirugía no cardíaca 19 2."
+    },
+    {
+      "section_label": "3.1.2 Betabloqueantes",
+      "page_start": 16,
+      "page_end": 20,
+      "char_start_in_paragraph": 11880,
+      "char_end_in_paragraph": 12671,
+      "text": "0,002) Fig. 2. Metaanálisis de betabloqueantes vs, control en el período perioperatorio de la cirugía no cardíaca 19 2. En pacientes que no reciben betabloqueantes y se les detecta isquemia miocárdica inducible o fibrilación auricular de elevada respuesta durante la evaluación preoperatoria, iniciar tratamiento con ellos, por lo menos 5 a 7 días antes, titular la dosis, y continuarlos durante el período perioperatorio, manteniendo o suspendiendo la última o las últimas dosis correspondientes a las horas previas a la cirugía, de acuerdo con el criterio médico frente a cada paciente individual (nivel de evidencia C). Clase III 1. Iniciar tratamiento con betabloqueantes el día de la cirugía, antes de ella, independientemente de la patología que se va a tratar (nivel de evidencia A)."
+    },
+    {
+      "section_label": "3.1.3 Estatinas",
+      "page_start": 20,
+      "page_end": 22,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 1097,
+      "text": "El tratamiento con estatinas está indicado para la prevención secundaria de eventos cardiovasculares en pacientes con enfermedad coronaria definida. Con respecto a la cirugía no cardíaca, se ha postulado que estos fármacos podrían reducir la morbimortalidad perioperatoria a través de sus efectos pleitrópicos o “no lipídicos”, que abarcan: 1) la estabilización de las placas ateromatosas, 2) la reducción de la oxidación lipídica, la inflamación, las metaloproteinasas de matriz y la muerte celular y 3) el aumento de la inhibición tisular de la metaloprotei - nasa y del colágeno. Estos mecanismos podrían prevenir la rotura de ateromas y consiguientemente el infarto perioperatorio (57). Diferentes estudios observacionales han demostrado un efecto beneficioso mediante su administración en el período perioperatorio. Los resultados de un metaanálisis (58) que incluyó 223.010 pacientes (12 estudios retrospectivos y 3 prospectivos en pacientes sometidos a cirugía cardíaca, vascular o no cardíaca) mostraron una reducción del 44% de riesgo de muerte en el grupo que recibió estatinas (2,2% vs."
+    },
+    {
+      "section_label": "3.1.3 Estatinas",
+      "page_start": 20,
+      "page_end": 22,
+      "char_start_in_paragraph": 977,
+      "char_end_in_paragraph": 1286,
+      "text": "vascular o no cardíaca) mostraron una reducción del 44% de riesgo de muerte en el grupo que recibió estatinas (2,2% vs. 3,2%; p = 0,0001). Otro Tabla 5. Calidad de la evidencia (según GRADE) de β-bloq vs, control en el perioperatorio de cirugía no cardíaca Evaluación de la calidad N.° de pacientes Efecto N."
+    },
+    {
+      "section_label": "3.1.3 Estatinas",
+      "page_start": 20,
+      "page_end": 22,
+      "char_start_in_paragraph": 1166,
+      "char_end_in_paragraph": 2266,
+      "text": "E) de β-bloq vs, control en el perioperatorio de cirugía no cardíaca Evaluación de la calidad N.° de pacientes Efecto N.° de Diseño Riesgo Inconsis- Evidencia Impre- Otras Beta Control Relativo Absoluto Calidad Impor- estudios de de tencia indirecta cisión considera- blo- (CI 95%) (CI 95%) tancia estudio sesgo ciones queantes Mortalidad a 30 días (seguimiento: mediana 30 días 4 Ensayos No es No es No es Impor- Ninguna 150/4993 117/4995 RR 1,31 7 más por 1000 ⊕⊕⊕ CRÍTICA aleatorizados impor- importante importante tante1 (3%) (2,3%) (1,03 a 1,66) (de 1 más a MODERADA tante 15 más 1,60% 5 más por 1000 (de 0 más a 11 más) 3,20% 10 más por 1000 (de 1 más a 21 más IAM a 30 días (seguimiento: mediana 30 días) 4 Ensayos No es Impor- No es No es Ninguna 198/4993 262/4995 RR 0,76 13 menos por ⊕⊕⊕⊕ CRÍTICA aleatorizados impor- tante importante impor- (4%) (5,2%) (0,63 a 0,91) 1000 (de 5 ALTA tante tante menos a 19 menos) 4,30% 10 menos por 1000 (de 4 menos a 16 menos) 8,40% 20 menos por 1000 (de 8 menos a 31 menos) ACV a 30 días (seguimiento: mediana 30 días) 4 Ensayos No es No es No es Impor-"
+    },
+    {
+      "section_label": "3.1.3 Estatinas",
+      "page_start": 20,
+      "page_end": 22,
+      "char_start_in_paragraph": 2146,
+      "char_end_in_paragraph": 3111,
+      "text": "0 menos por 1000 (de 8 menos a 31 menos) ACV a 30 días (seguimiento: mediana 30 días) 4 Ensayos No es No es No es Impor- Ninguna 48/4993 21/4995 RR 2,21 5 más por ⊕⊕⊕ CRÍTICA aleatorizados impor- impor- impor- tante1 (0,96%) (0,42%) (1,34 a 3,66) 1000 (de MODERADO tante tante tante 1 más a 11 más) 0,04% 0 más por 1000 (de 0 más a 1 más) 0,8% 10 más por 1000 (de 3 más a 21 más) 1Número de eventos insuficiente metaanálisis más reciente (59) investigó su utilidad en el perioperatorio de cirugía cardíaca y no cardíaca, inclu - yendo estudios solo aleatorizados, con un total de 2.292 pacientes. Las estatinas redujeron el riesgo de IAM (RR 0,53; IC 95% 0,38-0,74) pero no de muerte (RR 0,62; IC 95% 0,34-1,14). Con respecto a los efectos adversos inducidos por las estatinas (hepatopatía, miopatía y rabdomiólisis), existen mecanismos en el perioperatorio que pueden favorecerlos (por ejemplo, alteración de la función renal y utilización de múltiples fármacos)."
+    },
+    {
+      "section_label": "3.1.3 Estatinas",
+      "page_start": 20,
+      "page_end": 22,
+      "char_start_in_paragraph": 2991,
+      "char_end_in_paragraph": 4069,
+      "text": "erioperatorio que pueden favorecerlos (por ejemplo, alteración de la función renal y utilización de múltiples fármacos). Si bien no existe evidencia proveniente de ensayos clínicos, en un estudio retrospectivo de 981 pacientes sometidos a cirugía vascular tratados con estatinas no se ha observado un aumento de la inci - dencia de dichos efectos adversos (60) Por el contrario, la interrupción del tratamiento crónico de estos fármacos ha demostrado riesgos de un efecto rebote (61). Para elaborar las presentes recomendaciones realizamos una búsqueda bibliográfica sin restricciones idio - máticas, considerando los siguientes criterios: estudios aleatorizados que evaluaron la indicación de estatinas versus control en el perioperatorio de cirugía no cardíaca y que informaron muerte total, IAM o ACV a 30 días. De esa manera, seleccionamos 3 estudios: 1. Durazzo y cols. (62) publicaron en 2004 un estudio en el cual aleatorizaron 100 pacientes a recibir 20 mg de atorvastatina o placebo durante, al menos, 2 semanas previas a la cirugía y hasta cumplir un total de 45 días."
+    },
+    {
+      "section_label": "3.1.3 Estatinas",
+      "page_start": 20,
+      "page_end": 22,
+      "char_start_in_paragraph": 3949,
+      "char_end_in_paragraph": 5032,
+      "text": "20 mg de atorvastatina o placebo durante, al menos, 2 semanas previas a la cirugía y hasta cumplir un total de 45 días. La atorvastatina redujo significativamente el riesgo de eventos cardíacos a 6 meses en comparación con placebo (punto final primario combinado de muerte cardíaca, ACV , IAM y angina inestable) de 26% vs. 8%; p = 0,03. Para el metaanálisis que presentaremos más adelante aplicamos los eventos sucedidos a 30 días posoperatorios. 2. DECREASE III (63), en el cual se aleatorizaron 250 pacientes a recibir fluvastatina y 247 a recibir placebo en forma doble ciego, administrados con una media de 37 días previos a una cirugía vascular. El punto final primario fue subrogante (isquemia posoperatoria) y el punto final combinado de muerte cardíaca y IAM fue secundario; se observó una reducción significativa de este con estatinas (10,1% vs. 4,8%; p = 0,03). 3. DECREASE IV (64) incluyó 1.066 pacientes asignados a recibir tratamiento abierto con bisoprolol, fluvasta - tina, ambos o placebo-placebo, con un diseño factorial 2 ×2, durante 34 días previos a la cirugía."
+    },
+    {
+      "section_label": "3.1.3 Estatinas",
+      "page_start": 20,
+      "page_end": 22,
+      "char_start_in_paragraph": 4912,
+      "char_end_in_paragraph": 5815,
+      "text": "isoprolol, fluvasta - tina, ambos o placebo-placebo, con un diseño factorial 2 ×2, durante 34 días previos a la cirugía. El estudio planeaba reclutar 2.000 pacientes pero fue detenido tempranamente por reclutamiento lento. El punto final primario fue el compuesto de muerte cardíaca y IAM y no se observó beneficio con las estatinas (3,2% vs. 4,9% p = 0,17). Nuestro metaanálisis incluyó los 3 ensayos mencionados, y no se hallaron diferencias significativas con respecto a la mortalidad y el ACV a 30 días posoperatorios, con un RR de 0,80 (IC 95% 0,35-1,84) y de 0,56 (IC 95% 0,17-1,79), respectivamente. Solo se observó una reducción significativa del IAM no fatal mediante el uso de estatinas, con un RR de 0,54 (IC 95% 0,34-0,86) ( Figura 3 ). Con respecto a la calificación de la evidencia según GRADE, debemos destacar la baja calidad para cada uno de los puntos finales considerados ( Tabla 6 )."
+    },
+    {
+      "section_label": "3.1.3 Estatinas",
+      "page_start": 20,
+      "page_end": 22,
+      "char_start_in_paragraph": 5695,
+      "char_end_in_paragraph": 6782,
+      "text": "la evidencia según GRADE, debemos destacar la baja calidad para cada uno de los puntos finales considerados ( Tabla 6 ). En limitaciones de los estudios descontamos 1 punto en los eventos IAM y ACV , dado el carácter abierto y la detención temprana del estudio más grande y que aportó la mayor cantidad de eventos (64). No hicimos lo mismo con mortalidad cardíaca, dada la ausencia de impacto en la adjudicación no ciega de la muerte. A pesar de ser todos estudios realizados en cirugía vascular, decidimos no disminuir niveles por indireccionalidad. En inconsistencia, solo descontamos 1 punto en mortalidad porque se observó una heterogeneidad moderada (I2 = 46%) en el informe de solo 2 estudios. Finalmente, descontamos 2 puntos en imprecisión en todos los puntos finales por la marcada escasez de eventos y escasos tamaños mues - trales. Probablemente, el tamaño óptimo de una muestra para estudiar el impacto de una intervención con estatinas sobre la incidencia de IAM o muerte a 30 días tenga que alcanzar una cifra superior a 8.000 pacientes, y el metaanálisis acumuló apenas 1."
+    },
+    {
+      "section_label": "3.1.3 Estatinas",
+      "page_start": 20,
+      "page_end": 22,
+      "char_start_in_paragraph": 6662,
+      "char_end_in_paragraph": 7576,
+      "text": "a de IAM o muerte a 30 días tenga que alcanzar una cifra superior a 8.000 pacientes, y el metaanálisis acumuló apenas 1.663 pacientes. Si observamos los resultados del metaanálisis de los 3 estudios, el único beneficio observado con respecto a la incidencia de IAM tiene un amplio intervalo de confianza, con una reducción del riesgo del 45%, hecho que supera los beneficios esperables, y que probablemente sean producto del azar. Teniendo en cuenta la naturaleza fraudulenta determinada por la Universidad de Erasmus (65) de los estudios DECREASE III y IV (63,64), a modo de análisis de sensibilidad excluimos estos 2 estudios; solamente quedó el de Durazzo y cols. (62). Si bien los resultados no mostraron beneficios en ningún punto final, este estudio carece de poder para arribar a alguna conclusión fiable dado el muy pequeño tamaño muestral y el muy escaso número de eventos, como ya destacamos previamente."
+    },
+    {
+      "section_label": "3.1.3 Estatinas",
+      "page_start": 20,
+      "page_end": 22,
+      "char_start_in_paragraph": 7456,
+      "char_end_in_paragraph": 8511,
+      "text": "conclusión fiable dado el muy pequeño tamaño muestral y el muy escaso número de eventos, como ya destacamos previamente. Sobre la base de estos hallazgos podemos afirmar que en la actualidad no disponemos de evidencias fiables provenientes de estudios clínicos metodológicamente apropiados para generar recomendaciones sobre la indica - ción de estatinas durante el período perioperatorio de una cirugía no cardíaca, en relación con los puntos finales considerados en este Consenso. Vale la pena destacar que tampoco hay evidencia con respecto a la continuación o suspensión de estas en aquellos pacientes que las utilizan crónicamente, dado que han sido excluidos de los estudios mencionados. Por tal razón, este Consenso favorece la continuación de su uso a través del perioperatorio sin estimar la incidencia de ningún perjuicio. 21 Recomendaciones sobre el uso de estatinas Clase I – Ninguna Clase II-a 1. Continuar el tratamiento con las estatinas durante el período perioperatorio en pacientes que las reciben cró - nicamente (nivel de evidencia C)."
+    },
+    {
+      "section_label": "3.1.3 Estatinas",
+      "page_start": 20,
+      "page_end": 22,
+      "char_start_in_paragraph": 8391,
+      "char_end_in_paragraph": 9043,
+      "text": "con las estatinas durante el período perioperatorio en pacientes que las reciben cró - nicamente (nivel de evidencia C). 2 Indicar estatinas antes de una cirugía no cardíaca a aquellos pacientes a quienes, durante la evaluación prequirúrgica, se les detectó aterosclerosis significativa en algún territorio (coronario, carotídeo, aórtico o periférico) y son candidatos para prevención secundaria (nivel de evidencia C). Clase III 1. Indicar estatinas antes de una cirugía no cardíaca en pacientes que no las reciben crónicamente ni tienen diagnóstico de dislipidemia ni aterosclerosis significativa en ningún territorio arterial (nivel de evidencia C)."
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 651,
+      "text": "Los inhibidores de la enzima convertidora de la angiotensina (IECA) y los antagonistas de los receptores de angiotensina II (ARA II) son fármacos de primera línea para el tratamiento de la hipertensión arterial, la insu - ficiencia cardíaca, el IAM y la nefropatía diabética, pues disminuyen la mortalidad y mejoran la calidad de vida. El mecanismo de acción de ambos grupos difiere en el nivel sobre el cual se produce el bloqueo del eje del SRAA. Los IECA inhiben la enzima convertidora de angiotensina I, con lo que se bloquea la transformación a angiotensina II, mientras que los ARA II bloquean directamente el receptor AT1 de la angiotensina II."
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 531,
+      "char_end_in_paragraph": 1631,
+      "text": "a transformación a angiotensina II, mientras que los ARA II bloquean directamente el receptor AT1 de la angiotensina II. Mortalidad total a 30 años Estatinas Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% Dunkelgrun 2009 14 534 12 532 56,2% 1,16 [0,54 2,49 ] Shouten 2009 6 250 12 247 43,8% 0,49[0,19 1,30 ] TOTAL IC 95% 784 779 100% 0,80 [0,35 1,84 ] Total Eventos 20 24 Heterogeneidad: Tau2 = 0,17; Chi2 =1,86, df = 1 (P = 0,17); I2 = 46% Prueba del efecto global: Z = 0,53 (P 0,60) IAM a 30 días Estatinas Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% Dunkelgrun 2009 15 534 23 532 53,8% 0,65 [0,34 1,23 ] Durazzo 2004 3 50 8 50 13,7% 0,38 [0,11 1,33 ] Shouten 2009 8 250 17 247 32,5% 0,46 [0,20 1,06] TOTAL IC 95% 834 829 0,54 [0,34 0,86] Total Eventos 26 48 Heterogeneidad: Tau2 = 0,00; Chi2 =0,77, df = 2 (P = 0,68); I2 = 0% Prueba del"
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 1511,
+      "char_end_in_paragraph": 2533,
+      "text": "829 0,54 [0,34 0,86] Total Eventos 26 48 Heterogeneidad: Tau2 = 0,00; Chi2 =0,77, df = 2 (P = 0,68); I2 = 0% Prueba del efecto global: Z = 0,57 (P 0,01) ACV a 30 días Estatinas Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% Dunkelgrun 2009 3 534 4 532 61,2% 0,75 [0,17 3,32] Durazzo 2004 0 50 2 50 15% 0,20 [0,01 4,06] Shouten 2009 1 250 2 247 23,8% 0,49 [0,05 5,41 ] TOTAL IC 95% 834 829 100% 0,56 [0,17 1,79] Total Eventos 26 48 Heterogeneidad: Tau2 = 0,00; Chi2 =0,61, df = 2 (P = 0,74); I2 = 0% Prueba del efecto global: Z = 0,99 (P 0,32) Fig. 3. Metaanálisis de estatinas vs, control en el período perioperatorio de la cirugía no cardíaca A nivel cardiovascular, la angiotensina II aumenta la contractilidad cardíaca, favorece la hipertrofia y el remo - delado ventricular, produce vasoconstricción, favorece el crecimiento endotelial e inhibe la acción vasodilatadora del óxido nítrico."
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 2413,
+      "char_end_in_paragraph": 3492,
+      "text": "cular, produce vasoconstricción, favorece el crecimiento endotelial e inhibe la acción vasodilatadora del óxido nítrico. Por otro lado, favorece la descarga simpática a nivel central y la liberación de epinefrina en la médula suprarrenal. La inhibición de todos estos mecanismos, sumada al incremento de los efectos vasodilata - dores de las bradiquininas, sustenta la inhibición del SRAA para disminuir el riesgo preoperatorio. Contrariamente, el efecto vasodilatador puede generar hipotensión arterial, con las potenciales consecuencias adversas ya demostradas por los betabloqueantes en el estudio POISE (4), en el cual se observó un aumento de la mortalidad y del ACV . Para evaluar la evidencia sobre el riesgo o beneficio de la utilización en el perioperatorio de este grupo de fármacos, realizamos una búsqueda bibliográfica de estudios aleatorizados que incluyeron pacientes medicados crónicamente con inhibidores del SRAA, comparando su continuación versus la suspensión previa a una cirugía no cardíaca, e incluyendo como puntos finales mortalidad, IAM o ACV a 30 días."
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 3372,
+      "char_end_in_paragraph": 4408,
+      "text": "versus la suspensión previa a una cirugía no cardíaca, e incluyendo como puntos finales mortalidad, IAM o ACV a 30 días. Adicionalmente, incluimos hipotensión arterial grave como un punto final subrogante. Dada la ausencia de estudios aleatorizados que consideraran los puntos finales clínicos, para nuestro me - taanálisis tuvimos en cuenta 2 estudios observacionales que incluyeron un total de 18.578 pacientes: 1. Turan y cols. (66) realizaron un estudio caso-control con datos de 79.228 pacientes sometidos a cirugía no cardíaca con anestesia general en la Cleveland Clinic, de los cuales 9.905 (13%) recibían IECA. Mediante un puntaje ( score ) de propensión para balancear las características basales, conformaron 2 grupos de 9.028 pacientes que recibían y que no recibían IECA. El uso de IECA no se asoció con un aumento de la mortalidad a 30 días (OR 0,93, IC 95% 0,73-1,19 p = 0,56). Cabe destacar que no se especificó si los pacientes recibieron el IECA durante el día de la cirugía o si lo suspendieron el día previo.Tabla 6."
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 4288,
+      "char_end_in_paragraph": 4567,
+      "text": "especificó si los pacientes recibieron el IECA durante el día de la cirugía o si lo suspendieron el día previo.Tabla 6. Calidad de la evidencia (según GRADE) de estatinas vs, control en el perioperatorio de cirugía no cardíaca Evaluación de la calidad N.° de pacientes Efecto N."
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 4447,
+      "char_end_in_paragraph": 5547,
+      "text": "de estatinas vs, control en el perioperatorio de cirugía no cardíaca Evaluación de la calidad N.° de pacientes Efecto N.° de Diseño Riesgo Inconsis- Evidencia Impre- Otras Estatinas Control Relativo Absoluto Calidad Impor- estudios de tencia indirecta cisión considera- (CI 95%) tancia e sesgo ciones Mortalidad a 30 días (seguimiento: mediana 30 días 2 Ensayos No es Importante1 No es Muy Ninguna 20/784 24/779 RR 0,53 14 menos por 1000 ⊕ CRÍTICA aleatorizados impor- importante impor- (2,6%) (3,1%) (0,21 a 1,33) (de 24 menos MUY tante tante2 a 10 más) BAJA 2,250% 11 menos por 1000 (de 18 menos a 7 más) 4,8% 23 menos por 1000 (de 38 menos a 16 más) IAM (seguimiento: mediana 30 días) 3 Ensayos Impor- No es No es Muy Ninguna 26/834 48/829 RR 0,54 27 menos por ⊕ CRÍTICA aleatorizados tante3 importante1 importante impor- (4%) (5,2%) (0,63 a 0,91) 1000 (de 8 MUY tante menos a BAJA 38 menos) 4,30% 20 menos por 1000 (de 6 menos a 28 menos) 6,80% 31 menos por 1000 (de 10 menos a 45 menos) ACV a 30 días (seguimiento: mediana 30 días) 3 Ensayos Impor No es No es Muy Impor- Ninguna 4/834 8/82"
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 5427,
+      "char_end_in_paragraph": 6417,
+      "text": "menos a 45 menos) ACV a 30 días (seguimiento: mediana 30 días) 3 Ensayos Impor No es No es Muy Impor- Ninguna 4/834 8/829 RR 0,56 4 menos por ⊕ CRÍTICA aleatorizados tante3 impor- impor- impor- (0,48%) (0,97%) (0,17 a 1,79) 1000 (de 8 MUY tante tante tante3 menos a BAJA 8 más) 0,75% 3 menos por 1000 (de 6 menos a 6 más) 4% 18 menos por 1000 (de 33 menos a 32 más) 1Se observó heterogeneidad moderada (I2= 46%), 2Tamaños de las muestras muy pequeños y escasez de eventos, 3El estudio más grande fue abierto y fue detenido tempranamente 23 2. Railton y cols. (67) evaluaron una cohorte de 883 pacientes consecutivos sometidos a cirugía de aorta abdominal, de los cuales 369 se encontraban medicados con IECA o ARA II. También balancearon los grupos mediante un score de propensión, de modo que quedaron 261 pacientes en cada grupo. Se observó una mortalidad de 6,1% en el grupo medicado con inhibidores del SRAA, y de 1,9% en el grupo control (p = 0,008), con un OR de 5 (IC 95% 1,4-27)."
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 6297,
+      "char_end_in_paragraph": 7290,
+      "text": "n el grupo medicado con inhibidores del SRAA, y de 1,9% en el grupo control (p = 0,008), con un OR de 5 (IC 95% 1,4-27). El metaanálisis de ambos estudios que evaluaron mortalidad a 30 días no mostró beneficios con el inh del SRAA, con un RR de 1,77 (IC 95% 0,44-7,09) y una elevada heterogeneidad dada por un I2 de 84%. En cuanto a IAM y ACV no se informaron datos ( Figura 4 ). Con respecto a la hipotensión arterial grave, encontramos 3 estudios aleatorizados que acumularon un total de 193 pacientes. Se definió hipotensión como una TA sistólica < 80, o < 90 mm Hg que requirió el uso de algún fármaco vasoactivo. Los estudios evaluados fueron: 1. Schirmer y cols. (68): incluyeron 100 pacientes hipertensos tratados crónicamente con IECA en plan de cirugía vascular. Los dividieron en 2 grupos, uno de los cuales suspendió el fármaco el día anterior y el otro lo recibió hasta la mañana de la cirugía. Este último grupo tuvo una mayor incidencia de hipotensión arterial. 2. Coriat y cols."
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 7170,
+      "char_end_in_paragraph": 8231,
+      "text": "ió hasta la mañana de la cirugía. Este último grupo tuvo una mayor incidencia de hipotensión arterial. 2. Coriat y cols. (69): evaluaron 51 pacientes en plan de cirugía vascular periférica medicados con enalapril o captopril por hipertensión arterial, a los que se les asignó suspenderlos 24 y 12 horas antes de la cirugía, respectivamente, o recibirlos el día de esta. Los resultados fueron similares al estudio anterior. 3. Bertrand y cols. (70) incluyeron 37 pacientes que recibían ARA II como tratamiento de su hipertensión arte - rial, los cuales fueron aleatorizados a suspenderlo 24 horas antes del procedimiento, o continuarlo hasta una hora antes de la cirugía. Los resultados también demostraron mayor hipotensión en el grupo que recibió el fármaco en el mismo día de la cirugía. Basados en estos 3 estudios aleatorizados, realizamos un metaanálisis que mostró una reducción significativa de los episodios de hipotensión arterial grave con un RR de 0,39 (IC 95% 0,17-0,92). La heterogeneidad observada fue significativa, con un I2 de 80% ( Figura 4 )."
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 8111,
+      "char_end_in_paragraph": 8999,
+      "text": "rave con un RR de 0,39 (IC 95% 0,17-0,92). La heterogeneidad observada fue significativa, con un I2 de 80% ( Figura 4 ). El análisis de la calidad de la evidencia según GRADE ubica los puntos finales clínicos (solo mortalidad a 30 días) con una muy baja calidad, dado que surge de 2 estudios observacionales con limitaciones adicionales ( Tabla 7). Uno de ellos, de gran magnitud, surgió de una base de datos del Servicio de Anestesia no diseñada para los fines del análisis, y que suelen carecer de una metodología rigurosa (medición precisa y análisis ajustado de los factores pronósticos asociados a los puntos finales en cada grupo, adjudicación precisa de los eventos, minimi - zación de pérdidas en el seguimiento). El otro estudio se caracteriza por un pequeño tamaño muestral, con tan solo 20 eventos entre los grupos, hecho que expone a los resultados al error por chance o azar."
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 8879,
+      "char_end_in_paragraph": 9460,
+      "text": "tamaño muestral, con tan solo 20 eventos entre los grupos, hecho que expone a los resultados al error por chance o azar. En relación con el análisis del punto final hipotensión arterial grave, la calidad de la evidencia obtenida es muy baja, dado que −si bien se analizaron 3 estudios aleatorizados− estos mostraron limitaciones metodoló - gicas (no se informa tratamiento doble ciego en 2, ni tampoco asignación oculta del tratamiento en 2), elevada imprecisión por muy escasos tamaños muestrales, e inconsistencia elevada por una importante heterogeneidad (I2 = 80%) ( Tabla 7 )."
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 9340,
+      "char_end_in_paragraph": 10440,
+      "text": "n por muy escasos tamaños muestrales, e inconsistencia elevada por una importante heterogeneidad (I2 = 80%) ( Tabla 7 ). Mortalidad a corto plazo Estatinas Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% Año| M-H, Efectos aleatorios, IC del 95% Railton 2010 16 261 4 261 42,9% 4 [1,36 11,80] 2010 Turan 2012 140 9028 146 9028 57,1% 0,96 [0,76 1,21] 2012 TOTAL IC 95% 9289 9289 100% 1,77 [0,44 7,09] Total Eventos 20 24 Heterogeneidad: Tau2 = 0,87; Chi2 =6,43, df = 1 (P = 0,01); I2 = 84% Prueba del efecto global: Z = 0,81 (P 0,42) Hipotensión arterial severa Suspensión Continuación Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% Bertrand 2011 12 18 19 19 39,8% 0,67 [0,48 0,94 ] Coriate 1994 6 30 16 21 31,8% 0,26 [0,12 0,57 ] Shirmer 2007 5 50 17 50 28,4% 0,29 [0,12 0,74] TOTA IC 95% 98 90 100,0% 0,39 [0,17 0,92] 0,86] Total Eventos 23 52 Heterogeneidad: Tau2 = 0,44; Chi2 =10,19, d"
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 10320,
+      "char_end_in_paragraph": 11360,
+      "text": "12 0,74] TOTA IC 95% 98 90 100,0% 0,39 [0,17 0,92] 0,86] Total Eventos 23 52 Heterogeneidad: Tau2 = 0,44; Chi2 =10,19, df = 2 (P = 0,006); I2 = 80% Prueba del efecto global: Z = 2,14 (P 0,03) En resumen, si bien la evidencia existente no basta para sostener una recomendación precisa sobre la continuación o suspensión de los inhibidores del SRAA, este Consenso desaconseja su uso el día de la cirugía, antes de ella, teniendo en cuenta la información surgida de otros hipotensores en la misma dirección. De hecho, en nuestro metaanálisis hemos observado hipotensión arterial con los inhibidores del SRAA, aunque con limi - taciones metodológicas significativas de los estudios seleccionados. Recomendaciones sobre el uso de inhibidores del SRAA Clase I – Ninguna Clase II-a 1. Suspender la dosis preoperatoria del IECA o ARA-II el día de la cirugía en los pacientes medicados crónica - mente y reiniciarlos en el período posoperatorio lo antes posible, cuando las condiciones hemodinámicas se encuentren estables (nivel de evidencia C). 2."
+    },
+    {
+      "section_label": "3.1.4 Inhibidores del sistema de renina-angiotensina-aldosterona (SRAA)",
+      "page_start": 22,
+      "page_end": 25,
+      "char_start_in_paragraph": 11240,
+      "char_end_in_paragraph": 11805,
+      "text": "o posoperatorio lo antes posible, cuando las condiciones hemodinámicas se encuentren estables (nivel de evidencia C). 2. Iniciar tratamiento con IECA o ARA-II de acuerdo con el criterio médico en aquellos pacientes a los que, en la evaluación preoperatoria, se les diagnostica HTA o disfunción ventricular severa, siempre que se suspenda el día de la cirugía, de acuerdo con el ítem anterior (nivel de evidencia C). Clase III 1. Indicar el inicio de IECA o ARA-II el día de la cirugía no cardíaca en pacientes que no los reciben crónicamente (nivel de evidencia C)."
+    },
+    {
+      "section_label": "3.1.5 Bloqueantes cálcicos",
+      "page_start": 25,
+      "page_end": 28,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 551,
+      "text": "Estos fármacos tienen como mecanismo de acción el bloqueo de los canales de calcio y se utilizan para el trata - miento de la HTA, de la angina vasoespástica, y en pacientes con contraindicaciones o intolerancia a los betablo - queantes. Por esta última razón, muchos tienen comorbilidades que aumentan el riesgo quirúrgico, tales como diabetes, EPOC o enfermedad vascular periférica. Tabla 7. Calidad de la evidencia (según GRADE) de Inh SRAA vs, control en el perioperatorio de cirugía no cardíaca Evaluación de la calidad N.° de pacientes Efecto N."
+    },
+    {
+      "section_label": "3.1.5 Bloqueantes cálcicos",
+      "page_start": 25,
+      "page_end": 28,
+      "char_start_in_paragraph": 431,
+      "char_end_in_paragraph": 1531,
+      "text": "de Inh SRAA vs, control en el perioperatorio de cirugía no cardíaca Evaluación de la calidad N.° de pacientes Efecto N.° de Diseño Riesgo Inconsis- Evidencia Impre- Otras Inh Control Relativo Absoluto Calidad Impor- estudios de tencia indirecta cisión considera- SRAA (CI 95%) tancia sesgo ciones Mortalidad a 30 días (seguimiento: mediana 30 días 2 Estudios Impor- Importante No es Impor Ninguna 156/9289 150/9289 RR 1,77 12 más por 1000 ⊕ CRÍTICA observa- tante1 importante tante2 (1,7%) (1,6%) (0,44 a 7,09) (de 9 menos MUY cionales a 98 más) BAJA 1,53% 12 más por 1000 (de 9 menos a 93 más) 1,61% 12 más por 1000 (de 9 menos a 98 más) Hipotensión arterial (seguimiento: mediana 5 días 3 Ensayos Impor- Muy No es Muy Ninguna 23/98 52/90 RR 0,39 352 menos por ⊕ CRÍTICA aleatorizados tante3 importante4 importante impor- (23,5%) (57,8%) (0,17 a 0,74) 1000 (de 150 MUY tante5 menos a BAJA 480 menos) 34% 207 menos por 1000 (de 88 menos a 282 menos) 76% 464 menos por 1000 (de 198 menos a 631 menos) 11 case-control y 1 cohorte prospectiva, 2Tamaños de las muestras escasos, 3Inconvenientes co"
+    },
+    {
+      "section_label": "3.1.5 Bloqueantes cálcicos",
+      "page_start": 25,
+      "page_end": 28,
+      "char_start_in_paragraph": 1411,
+      "char_end_in_paragraph": 2472,
+      "text": "(de 198 menos a 631 menos) 11 case-control y 1 cohorte prospectiva, 2Tamaños de las muestras escasos, 3Inconvenientes con doble ciego y asignación oculta, 4Elevada heterogeneidad (I2 = 80%), 5Tamaños de las muestras muy escasos 25 El beneficio potencial de los bloqueantes cálcicos en el preoperatorio, sobre todo de los no dihidropiridínicos (verapamilo y diltiazem), se debe a la reducción de la frecuencia cardíaca y de la presión arterial, a partir de lo cual disminuyen el consumo miocárdico de oxígeno. Para este Consenso realizamos un metaanálisis seleccionando estudios aleatorizados en distintos idiomas que evaluaron bloqueantes cálcicos versus control, administrados antes, durante o inmediatamente después de una cirugía no cardíaca, y que refirieron IAM, ACV o muerte a 30 días posoperatorios. La búsqueda arrojó 5 estudios, a saber: 1. Amar y cols. (71) incluyeron 330 pacientes aleatorizados a recibir diltiazem IV versus placebo luego de una cirugía pulmonar (excluidos los que utilizaban diltiazem), seguido de tratamiento oral durante 14 días."
+    },
+    {
+      "section_label": "3.1.5 Bloqueantes cálcicos",
+      "page_start": 25,
+      "page_end": 28,
+      "char_start_in_paragraph": 2352,
+      "char_end_in_paragraph": 3442,
+      "text": "ebo luego de una cirugía pulmonar (excluidos los que utilizaban diltiazem), seguido de tratamiento oral durante 14 días. El punto final primario (ocurrencia de arritmia supraventricular en los primeros 14 días posoperatorios) fue menor en el grupo con diltiazem (15% vs. 25% p = 0,03). 2. Godet y cols. (72) aleatorizaron 30 pacientes con enfermedad coronaria estable a recibir diltiazem IV o pla - cebo al comenzar la inducción anestésica antes de una cirugía vascular periférica, considerando la aparición de isquemia miocárdica como evento adverso posoperatorio. No hubo diferencias significativas entre ambos grupos (placebo 36,6% vs. diltiazem 20%). 3. Retamal y cols. (73) aleatorizaron 63 pacientes en 3 grupos de pacientes en plan de endarterectomía carotídea a recibir en el posoperatorio nifedipina nasal, diltiazem IV o placebo luego del procedimiento. El punto final (ocurrencia de HTA) se observó en el 62% del grupo placebo, en el 24% del grupo nifedipina nasal y en el 19% del grupo diltiazem IV; esta diferencia resultó estadísticamente significativa. 4. Van Mieghen y cols."
+    },
+    {
+      "section_label": "3.1.5 Bloqueantes cálcicos",
+      "page_start": 25,
+      "page_end": 28,
+      "char_start_in_paragraph": 3322,
+      "char_end_in_paragraph": 4214,
+      "text": "nasal y en el 19% del grupo diltiazem IV; esta diferencia resultó estadísticamente significativa. 4. Van Mieghen y cols. (74) aleatorizaron 199 pacientes sometidos a cirugía pulmonar a recibir verapamilo o placebo, luego de la intervención, para evaluar la incidencia de fibrilación auricular. No se evidenciaron dife - rencias estadísticamente significativas entre ambos grupos (placebo 15% vs. verapamilo 8%). Cabe mencionar que en el 23% del grupo verapamilo se suspendió la infusión por la presencia de bradicardia e hipotensión. 5. Caramella y cols. (75) aleatorizaron 66 pacientes con enfermedad coronaria estable en plan de cirugía no cardíaca (de los cuales 37 fueron sometidos a cirugía vascular) a recibir diltiazem IV o placebo. El punto final primario fue isquemia miocárdica y se observó una menor cantidad de eventos en el grupo que recibió diltiazem (6% vs. 17,6%, p = < 0,05)."
+    },
+    {
+      "section_label": "3.1.5 Bloqueantes cálcicos",
+      "page_start": 25,
+      "page_end": 28,
+      "char_start_in_paragraph": 4094,
+      "char_end_in_paragraph": 5098,
+      "text": "emia miocárdica y se observó una menor cantidad de eventos en el grupo que recibió diltiazem (6% vs. 17,6%, p = < 0,05). El resultado del metaanálisis no mostró reducción de la mortalidad (RR 0,59, IC 95% 0,17-2,02) ni del IAM (RR 0,19, IC 95% 0,02-1,68) a 30 días posoperatorios, sin observarse heterogeneidad en el análisis ( Figura 5 ). Con respecto a la calidad de la evidencia según GRADE, la hemos calificado como de muy baja calidad, tanto para mortalidad como para IAM perioperatorio ( Tabla 8 ). En cuanto a ACV , no hay datos para analizar. En el punto final mortalidad, descontamos 1 punto en limitaciones de los estudios, dado que 2 de 4 no fueron doble ciego, y en 3 de 4 no se cumplió con la asignación oculta del tratamiento. También descontamos 1 punto en indi - reccionalidad, dado que 2 estudios se realizaron en cirugía pulmonar, 2 en vascular y 1 (de pequeño tamaño) en cirugías no cardíacas varias, y difícilmente representen la población de la cirugía no cardíaca de todos los días."
+    },
+    {
+      "section_label": "3.1.5 Bloqueantes cálcicos",
+      "page_start": 25,
+      "page_end": 28,
+      "char_start_in_paragraph": 4978,
+      "char_end_in_paragraph": 6039,
+      "text": "o) en cirugías no cardíacas varias, y difícilmente representen la población de la cirugía no cardíaca de todos los días. Finalmente, descontamos 2 niveles en imprecisión puesto que, en total, el metaanálisis acumuló una mínima cantidad de eventos (11 muertos y 3 infartos) dada la pequeña cantidad de pacientes aleatorizados. Existe otro metaanálisis muy completo (76) que, además de evaluar los puntos finales considerados en nuestro consenso, demostró una reducción significativa de la incidencia de taquicardia supraventricular en el posoperato - rio, aunque con una tendencia no significativa a incrementar la aparición de hipotensión arterial y bradicardia. En nuestra opinión, estos resultados también carecen de validez dada la escasa cantidad de pacientes evaluados, hecho que permite que el azar haya desempeñado algún papel importante. En conclusión, la evidencia existente sobre el uso de bloqueantes cálcicos en el perioperatorio de cirugía no cardíaca es escasa y de muy baja calidad, y por lo tanto no podemos desarrollar recomendaciones precisas."
+    },
+    {
+      "section_label": "3.1.5 Bloqueantes cálcicos",
+      "page_start": 25,
+      "page_end": 28,
+      "char_start_in_paragraph": 5919,
+      "char_end_in_paragraph": 6948,
+      "text": "de cirugía no cardíaca es escasa y de muy baja calidad, y por lo tanto no podemos desarrollar recomendaciones precisas. Sin em - bargo, extrapolando conceptos fisiopatológicos observados con otros hipotensores (IECA, ARA-II y β-bloqueantes) y dada una tendencia observada hacia la hipotensión con bloqueantes cálcicos en la escasa evidencia existente, este Consenso recomienda no tomarlos el día de la cirugía, previamente a esta. Recomendaciones sobre el uso de bloqueantes cálcicos Clase I – Ninguna Clase II-a 1 En pacientes medicados crónicamente, continuar con los bloqueantes cálcicos durante el perioperatorio y suspender, únicamente el día de la cirugía, la dosis previa a esta (nivel de evidencia C). 2. Iniciar tratamiento con bloqueantes cálcicos en pacientes con isquemia miocárdica inducible o con fuerte sospecha de vasoespasmo coronario durante la evaluación preoperatoria; suspender, únicamente el día de la cirugía, la dosis previa a esta y continuarlos durante el período perioperatorio (nivel de evidencia C)."
+    },
+    {
+      "section_label": "3.1.5 Bloqueantes cálcicos",
+      "page_start": 25,
+      "page_end": 28,
+      "char_start_in_paragraph": 6828,
+      "char_end_in_paragraph": 7928,
+      "text": "te el día de la cirugía, la dosis previa a esta y continuarlos durante el período perioperatorio (nivel de evidencia C). Mortalidad a 30 días Bloq cálcicos Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% Amar 2000 1 167 3 163 29,9% 0,33 [0,03 3,10] Godet 1987 0 15 0 15 No estimable Retamal 1986 0 42 0 21 No estimable Van Mieghen 1996 3 99 4 100 70,1% 0,76 [0,17 3,30] TOTAL IC 95% 323 299 100,0% 0,59 [0,17 2,02] Total Eventos 4 7 Heterogeneidad: Tau2 = 0,00; Chi2 = 0,38, df = 3 (P = 0,54); I2 = 0% Prueba del efecto global: Z = 0,84 (P 0,72) IAM a 30 días AAS Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% Caramella 1988 0 32 2 34 52,6% 0,21 [0,01 4,26] Godet 1987 0 15 0 15 No estimable Retamal 1986 0 42 1 21 47,4% 0,17 [0,01 4,02] Van Mieghen 1996 0 99 0 100 No estimable STRATAGEM 2010 3 145 3 146 6,1% 1,01 [0,21 4,91] TOTAL IC 95% 1"
+    },
+    {
+      "section_label": "3.1.5 Bloqueantes cálcicos",
+      "page_start": 25,
+      "page_end": 28,
+      "char_start_in_paragraph": 7808,
+      "char_end_in_paragraph": 8273,
+      "text": ",17 [0,01 4,02] Van Mieghen 1996 0 99 0 100 No estimable STRATAGEM 2010 3 145 3 146 6,1% 1,01 [0,21 4,91] TOTAL IC 95% 188 170 100,0% 0,19 [0,02 1,68] Total Eventos 0 3 Total Eventos 52 51 Heterogeneidad: Tau2 = 0,00; Chi2 = 0,01, df = 2 (P = 0,92); I2 = 0% Prueba del efecto global: Z = 1,49 (P 0,14) Fig 5. Metaanálisis de bloqueantes cálcicos vs. control en el período perioperatorio de la cirugía no cardíaca. Evaluación de la calidad N.° de pacientes Efecto N."
+    },
+    {
+      "section_label": "3.1.5 Bloqueantes cálcicos",
+      "page_start": 25,
+      "page_end": 28,
+      "char_start_in_paragraph": 8153,
+      "char_end_in_paragraph": 9253,
+      "text": "vs. control en el período perioperatorio de la cirugía no cardíaca. Evaluación de la calidad N.° de pacientes Efecto N.° de Diseño Riesgo Inconsis- Evidencia Impre- Otras Bloquean- Control Relativo Absoluto Calidad Impor- estudios de tencia indirecta cisión considera- tes (CI 95%) tancia sesgo ciones cálcicos Mortalidad a 30 días (seguimiento: mediana 30 días 4 Ensayos Impor- No es Importante2 Muy Ninguna 4/323 7/299 RR 0,59 10 menos por ⊕ aleatorizados tante1 importante impor- (1,2%) (2,3%) (0,17 a 2,02) 1000 (de 19 MUY tante3 menos a 24 más) BAJA 1,8% 7 menos por 1000 (de 15 menos a 18 más) 4% 16 menos por 1000 (de 33 menos a 41 más) IAM a 30 días (seguimiento: mediana 30 días) 4 Ensayos Muy No es Importante2 Muy Ninguna 0/188 3/170 RR 0,19 14 menos por ⊕ aleatorizados impor- importante impor- (0%) ((1,8%) (0,02 a 1,68) 1000 (de 17 MUY tante1, 4 tante3 menos a 12 más) BAJA 4,7% 38 menos por 1000 (de 46 menos a 32 más) 5,8% 47 menos por 1000 (de 67 menos a 39 más) 1Inconveniente con la asignación oculta (3 estudios), 22 estudios en cirugía pulmonar y 2 en vascular (1 endarter"
+    },
+    {
+      "section_label": "3.1.5 Bloqueantes cálcicos",
+      "page_start": 25,
+      "page_end": 28,
+      "char_start_in_paragraph": 9133,
+      "char_end_in_paragraph": 9568,
+      "text": "9 más) 1Inconveniente con la asignación oculta (3 estudios), 22 estudios en cirugía pulmonar y 2 en vascular (1 endarterec, carot,), 3Tamaño de la muestra y número de eventos muy escasos, 4Inconveniente con el ciego (2 estudios 27 Clase III 1. Iniciar bloqueantes cálcicos en el preoperatorio de cirugía no cardíaca en pacientes que no los reciben cróni - camente. Iniciarlos el día de la cirugía, antes de esta (nivel de evidencia C)."
+    },
+    {
+      "section_label": "3.1.7 Anticoagulantes",
+      "page_start": 28,
+      "page_end": 28,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 387,
+      "text": "Los pacientes que reciben anticoagulantes orales en forma crónica, ya sean los clásicos (acenocumarol, warfarina) o los nuevos (dabigatrán, rivaroxabán, apixabán), deben realizar una consulta con el hematólogo especializado en coagulación, al menos 5 días antes de la cirugía, para recibir indicaciones sobre suspensión, tratamiento sustitutivo eventual y reinicio de la anticoagulación."
+    },
+    {
+      "section_label": "3.1.9 Profilaxis de tromboembolismo venoso R",
+      "page_start": 28,
+      "page_end": 28,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 110,
+      "text": "Remitirse al Consenso de Enfermedad tromboembólica de la Sociedad Argentina de Cardiología, del año 2009 (80)."
+    },
+    {
+      "section_label": "3.2 Indicaciones de coronariografía y revascularización coronaria profiláctica",
+      "page_start": 28,
+      "page_end": 30,
+      "char_start_in_paragraph": 0,
+      "char_end_in_paragraph": 1073,
+      "text": "Tradicionalmente, la isquemia miocárdica perioperatoria ha sido atribuida al exceso de demanda miocárdica de oxígeno determinado por una frecuencia cardíaca o presión arterial elevadas, o ambas, en pacientes con una lesión coronaria grave fija. Como consecuencia, las recomendaciones señalaron la necesidad de solicitar pruebas de inducción de isquemia prequirúrgicas y, de acuerdo con los resultados, coronariografía (CCG) y eventual revascularización coronaria (81,82). En la actualidad se le atribuye también un papel importante a la reducción del flujo coronario determinada por la trombosis intracoronaria o el vasoespasmo, o por ambos, habitualmente secundarios a la ruptura de placa en diferentes grados de obstrucciones. La hipotensión arterial significativa es otro elemento que favorece este mecanismo. Dos estudios realizados sobre autopsias de pacientes que sufrieron un IAM perioperatorio fatal demostraron que la enfermedad grave de múltiples vasos y de tronco de coronaria izquierda fueron frecuentes (prevalencia de 54 a 59% y de 19 a 23%, respectivamente)."
+    },
+    {
+      "section_label": "3.2 Indicaciones de coronariografía y revascularización coronaria profiláctica",
+      "page_start": 28,
+      "page_end": 30,
+      "char_start_in_paragraph": 953,
+      "char_end_in_paragraph": 2020,
+      "text": "les vasos y de tronco de coronaria izquierda fueron frecuentes (prevalencia de 54 a 59% y de 19 a 23%, respectivamente). Sin embargo, la incidencia de ruptura de placa y trombosis coronaria también fue común (46 a 55%, y 28 a 35%, respectivamente), sobre todos asociadas a lesiones no significativas (83,84). El pequeño tamaño de las muestras y un sesgo de selección hacen dificultosa la interpretación de los resultados. Existen otros 2 estudios observacionales que sustentan la ruptura de placa y la subsiguiente trombosis. En el primero se incluyeron pacientes que sufrieron un IAM perioperatorio o murieron en el hospital luego de una cirugía vascular y tenían CCG previa dentro de los 6 meses (85). Los eventos se relacionaron a oclusiones totales insuficientemente colateralizadas y a lesiones no graves. El segundo estudio demostró que el 45% de 120 pacientes con IAM posterior a cirugía no cardíaca tuvo lesiones asociadas a ruptura de placa y trombosis (Ambrose tipo II), al igual que 120 pacientes con síndromes coronarios agudos del contexto no operatorio."
+    },
+    {
+      "section_label": "3.2 Indicaciones de coronariografía y revascularización coronaria profiláctica",
+      "page_start": 28,
+      "page_end": 30,
+      "char_start_in_paragraph": 1900,
+      "char_end_in_paragraph": 2916,
+      "text": "ca y trombosis (Ambrose tipo II), al igual que 120 pacientes con síndromes coronarios agudos del contexto no operatorio. Mientras tanto, 240 pacientes coronarios estables mostraron una incidencia significativamente menor (86). Finalmente, la ausencia de beneficios con la indicación preoperatoria de AAS observada en POISE-2 reduce la importancia del papel de la trombosis coronaria (53). En resumen, la carga de enfermedad coronaria es un potente predictor de riesgo. El entorno quirúrgico (infla - mación, hipoxia, hipercoagulabilidad) puede promover la ruptura de placa seguida de trombosis y vasoespasmo, fundamentalmente en lesiones no significativas, o bien desencadenar isquemia en lesiones fijas preexistentes, llevando al infarto en el contexto de taquicardia, hipertensión o hipotensión, anemia o hipoxemia. La evidencia existente fue inicialmente de carácter observacional, con un metaanálisis publicado en 2007 que incluyó 6 estudios retrospectivos y 1 aleatorizado, con un total de 3.949 pacientes (87)."
+    },
+    {
+      "section_label": "3.2 Indicaciones de coronariografía y revascularización coronaria profiláctica",
+      "page_start": 28,
+      "page_end": 30,
+      "char_start_in_paragraph": 2796,
+      "char_end_in_paragraph": 3706,
+      "text": "análisis publicado en 2007 que incluyó 6 estudios retrospectivos y 1 aleatorizado, con un total de 3.949 pacientes (87). Los resultados no mostraron beneficios con la revascularización coronaria profiláctica comparada con el tratamiento médico en términos de muerte y IAM a 30 días (OR 0,85, IC 95% 0,48-1,50 y OR 0,95, IC 95% 0,44-2,08, respectivamente). En cuanto a estudios aleatorizados, existen 4 estudios publicados entre 2004 y 2007 que incluyeron solo pacientes en plan de cirugía vascular, con riesgo intermedio a alto, a saber: 1. CARP (88) aleatorizó 510 pacientes con riesgo cardiovascular aumentado y con lesiones graves en la CCG en plan de cirugía vascular mayor, a revascularización coronaria (por angioplastia o cirugía de bypass ) o a trata - miento médico. No se observaron diferencias significativas en los puntos finales primarios en el seguimiento a 30 días y a largo plazo (2,7 años). 2."
+    },
+    {
+      "section_label": "3.2 Indicaciones de coronariografía y revascularización coronaria profiláctica",
+      "page_start": 28,
+      "page_end": 30,
+      "char_start_in_paragraph": 3586,
+      "char_end_in_paragraph": 4603,
+      "text": "on diferencias significativas en los puntos finales primarios en el seguimiento a 30 días y a largo plazo (2,7 años). 2. DECREASE-V (89) incluyó 100 pacientes con riesgo cardiovascular aumentado y con isquemia extensa en una prueba funcional y los aleatorizó a CCG seguida de revascularización coronaria versus tratamiento médico. Tampoco se observaron beneficios con la revascularización en los eventos a 30 días y a 1 año. 3. Mónaco y cols. (90) aleatorizaron 208 pacientes de moderado a alto riesgo cardiovascular en plan de cirugía vascular mayor, a CCG sistemática seguida de revascularización coronaria versus prueba funcional seguida de CCG y revascularización solo en aquellos con isquemia. El 58% del primer grupo y el 40% del segundo fueron efectivamente revascularizados. Los resultados a corto plazo fueron semejantes, pero en el seguimiento a más de 5 años se observó una diferencia significativa en sobrevida y eventos cardiovasculares a favor de la estrategia con CCG sistemática. 4. Illuminati y cols."
+    },
+    {
+      "section_label": "3.2 Indicaciones de coronariografía y revascularización coronaria profiláctica",
+      "page_start": 28,
+      "page_end": 30,
+      "char_start_in_paragraph": 4483,
+      "char_end_in_paragraph": 5412,
+      "text": "ignificativa en sobrevida y eventos cardiovasculares a favor de la estrategia con CCG sistemática. 4. Illuminati y cols. 91 incluyeron 426 pacientes sin historia de enfermedad coronaria en plan de endarterec - tomía carotídea, aleatorizados a CCG directa seguida de revascularización por angioplastia coronaria versus tratamiento médico. A corto plazo se observaron menos eventos isquémicos en el primer grupo (0 vs. 4,2%, p = 0,01) sin diferencias en ACV ni en mortalidad. En el metaanálisis que realizamos para este Consenso decidimos excluir el estudio DECREASE-V a causa de que recientemente la Universidad de Erasmus lo incluyó entre los de naturaleza fraudulenta (65). Los 3 estudios restantes sumaron 1.144 pacientes y no mostraron diferencias significativas en la mortalidad a 30 días (RR 0,63, IC 95% 0,13-3,09), en la incidencia de IAM a 30 días (RR 0,50, IC 95% 0,11-2,24), ni en la de ACV (RR 0,79, IC 95% 0,21-2,97)."
+    },
+    {
+      "section_label": "3.2 Indicaciones de coronariografía y revascularización coronaria profiláctica",
+      "page_start": 28,
+      "page_end": 30,
+      "char_start_in_paragraph": 5292,
+      "char_end_in_paragraph": 6231,
+      "text": "0,13-3,09), en la incidencia de IAM a 30 días (RR 0,50, IC 95% 0,11-2,24), ni en la de ACV (RR 0,79, IC 95% 0,21-2,97). La heterogeneidad fue significativa para muerte y IAM (I2 de 67% y 66%, respectivamente), en razón de las diferentes características metodológicas de los estudios ( Figura 6 ). De acuerdo con GRADE, la calidad de la evidencia con respecto a los puntos finales (mortalidad, IAM y ACV a 30 días) resultó ser muy baja, fundamentalmente por una baja precisión producto de los escasos tamaños muestrales, baja consistencia por la elevada heterogeneidad (en IAM y muerte) y también por otras limitaciones metodológicas, como la adjudicación no ciega de eventos en 2 estudios (90,91) ( Tabla 9 ). Es importante destacar que los estudios mostraron sesgos de selección, por ejemplo la exclusión en CARP de pacientes con lesiones graves del tronco de coronaria izquierda, o aquellos con estenosis aórtica severa con - comitante."
+    },
+    {
+      "section_label": "3.2 Indicaciones de coronariografía y revascularización coronaria profiláctica",
+      "page_start": 28,
+      "page_end": 30,
+      "char_start_in_paragraph": 6111,
+      "char_end_in_paragraph": 7211,
+      "text": "acientes con lesiones graves del tronco de coronaria izquierda, o aquellos con estenosis aórtica severa con - comitante. Mortalidad a 30 días Rev conaria Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% Illuminati 0 216 2 210 18,1% 0,19 [0,01 4,03] McFalls 17 258 9 252 46,8% 0,84 [0,84 4,06] Monaco 2 105 7 103 35,2% 0,28 [0,06 1,32] TOTAL IC 95% 579 565 100% 0,63 [0,13 3,09] Total Eventos 19 18 Heterogeneidad: Tau2 = 1,24; Chi2 = 5,97, df = 3 (P = 0,05); I2 = 67% Prueba del efecto global: Z = 0,56 (P = 0,57) IAM a 30 días Rev conaria Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% Illuminati 0 216 9 210 18,3% 0,05 [0,00 0,87] MacFalls 40 258 34 252 6,4% 1,15 [0,75 1,75] Monaco 2 105 4 103 31,7% 0,49 [0,09 2,62] TOTAL IC 95% 579 565 100% 0,50 [0,11 2,24] Total Eventos 42 47 Heterogeneidad: Tau2 = 1,13; Chi2 = 5,91, df = 2 (P = 0,05);"
+    },
+    {
+      "section_label": "3.2 Indicaciones de coronariografía y revascularización coronaria profiláctica",
+      "page_start": 28,
+      "page_end": 30,
+      "char_start_in_paragraph": 7091,
+      "char_end_in_paragraph": 7782,
+      "text": "L IC 95% 579 565 100% 0,50 [0,11 2,24] Total Eventos 42 47 Heterogeneidad: Tau2 = 1,13; Chi2 = 5,91, df = 2 (P = 0,05); I2 = 66% Prueba del efecto global: Z = 0,91 (P 0,36) ACV a 30 días Rev conaria Control Razón de riesgo Razón de riesgo Estudio o subgrupo Eventos Total Eventos Total Peso estadístico M-H, Efectos aleatorios, IC del 95% M-H, Efectos aleatorios, IC del 95% Illuminati 1 216 2 210 30,7% 0,49 [0,04 5,32] MacFalls 2 258 2 252 46,2% 0,98 [0,14 6,88] Monaco 1 105 1 103 23,1% 0,98 [0,06 15,47] TOTAL IC 95% 579 565 100% 0,79 [0,21 2,97] Total Eventos 4 5 Heterogeneidad: Tau2 = 0,00; Chi2 = 0,23, df = 2 (P = 0,89); I2 = 0% Prueba del efecto global: Z = 0,35 (P = 0,73) Fig. 6."
+    },
+    {
+      "section_label": "3.2 Indicaciones de coronariografía y revascularización coronaria profiláctica",
+      "page_start": 28,
+      "page_end": 30,
+      "char_start_in_paragraph": 7662,
+      "char_end_in_paragraph": 8591,
+      "text": "terogeneidad: Tau2 = 0,00; Chi2 = 0,23, df = 2 (P = 0,89); I2 = 0% Prueba del efecto global: Z = 0,35 (P = 0,73) Fig. 6. Metaanálisis de revascularización coronaria profiláctica vs, tratamiento conservador en el período perioperatorio de la cirugía no cardíaca 29 En conclusión, basados en esta evidencia limitada y de muy baja calidad, podemos especular que la revascu - larización de lesiones coronarias graves no mejora las probabilidades de sufrir complicaciones isquémicas perio - peratorias, comparada con el tratamiento conservador instaurado antes de una cirugía no cardíaca, en pacientes con enfermedad coronaria estable. Con respecto a los pacientes “inestables”, el estudio VISION demostró que la enfermedad coronaria “reciente” de alto riesgo, definida como angina inestable, IAM o angina en CF 3 o 4 durante los últimos 6 meses, fue un predictor independiente de muerte a 30 días luego de la cirugía no cardíaca (3)."
+    },
+    {
+      "section_label": "3.2 Indicaciones de coronariografía y revascularización coronaria profiláctica",
+      "page_start": 28,
+      "page_end": 30,
+      "char_start_in_paragraph": 8471,
+      "char_end_in_paragraph": 9458,
+      "text": "o 4 durante los últimos 6 meses, fue un predictor independiente de muerte a 30 días luego de la cirugía no cardíaca (3). Contrariamente, la enfermedad coronaria estable no fue un predictor independiente, hecho que sustenta la idea de que las lesiones graves no representan el principal mecanismo que conduce al IAM perioperatorio, y su revascularización puede no ser mandatoria previamente a la cirugía no cardíaca. Recomendaciones sobre coronariografía y revascularización coronaria profiláctica Clase I 1. En pacientes con “enfermedad coronaria reciente de alto riesgo clínico” (síndrome coronario agudo o angina en CF 3-4 en los últimos 6 meses) que serán sometidos a una cirugía no cardíaca de riesgo intermedio o alto, y no hayan sido realizadas aún (nivel de evidencia C). 2. En pacientes con una valvulopatía severa y enfermedad coronaria concomitante, en quienes se planifica el tratamiento de la valvulopatía previo a la cirugía no cardíaca (nivel de evidencia C). Clase II-a 1."
+    },
+    {
+      "section_label": "3.2 Indicaciones de coronariografía y revascularización coronaria profiláctica",
+      "page_start": 28,
+      "page_end": 30,
+      "char_start_in_paragraph": 9338,
+      "char_end_in_paragraph": 9871,
+      "text": "nes se planifica el tratamiento de la valvulopatía previo a la cirugía no cardíaca (nivel de evidencia C). Clase II-a 1. En pacientes con pruebas funcionales que muestran riesgo ergométrico alto (Tabla 3), o con pruebas farma - cológicas (ecoestrés o cámara gamma) que muestran isquemia extensa (Tabla 3), que serán sometidos a una Tabla 9. Calidad de la evidencia (según GRADE) de revascularización coronaria vs, tratamiento conservador en el porioperatorio de cirugía no cardíaca Evaluación de la calidad N.° de pacientes Efecto N."
+    },
+    {
+      "section_label": "3.2 Indicaciones de coronariografía y revascularización coronaria profiláctica",
+      "page_start": 28,
+      "page_end": 30,
+      "char_start_in_paragraph": 9751,
+      "char_end_in_paragraph": 10851,
+      "text": "tratamiento conservador en el porioperatorio de cirugía no cardíaca Evaluación de la calidad N.° de pacientes Efecto N.° de Diseño Riesgo Inconsis- Evidencia Impre- Otras Revascu- Control Relativo Absoluto Calidad Impor- estudios de tencia indirecta cisión considera- larización (CI 95%) tancia sesgo ciones coronaria Mortalidad a 30 días (seguimiento: mediana 30 días 3 Ensayos No es Impor- No es Muy Ninguna 19/579 18/565 RR 0,63 12 menos por ⊕ CRÍTICA aleatorizados importante tante1 importante impor- (3,3%) (3,2%) (0,13 a 3,09 1000 (de 28 MUY tante2 menos a 67 más) BAJA 0,95% 4 menos por 1000 (de 8 menos a 20 más) 3,60% 13 menos por 1000 (de 31 menos a 75 más) IAM a 30 días (seguimiento: mediana 30 días) 3 Ensayos Impor Impor- No es Muy Ninguna 42/579 47/565 RR 0,50 42 menos por ⊕ CRÍTICA aleatorizados tante3 tante1 importante impor- (7,3%) (8,3%) (0,11 a 2,24) 1000 (de 74 MUY tante menos a 103 más) BAJA 3,80% 19 menos por 1000 (de 34 menos a 47 más) 13,50% 68 menos por 1000 (de 167 más) ACV a 30 días (seguimiento: media 30 días) 3 Ensayos Impor No es No es Muy Ninguna 4/579 5/"
+    }
+  ]
+}
