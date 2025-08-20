@@ -94,15 +94,18 @@
 
       <!-- DERECHA: Config LLM + Llamada + Respuesta -->
       <section class="card">
-        <div class="title">4) Configurar DeepSeek (OpenRouter)</div>
+        <div class="title">4) Configurar OpenRouter (modelo)</div>
         <label>API Key (se guarda localmente en tu navegador)</label>
         <input id="key" type="password" placeholder="sk-or-v1-…" />
         <div class="cols2" style="margin-top:8px">
           <div>
             <label>Modelo</label>
             <select id="model">
-              <option value="deepseek/deepseek-chat" selected>deepseek/deepseek-chat</option>
-              <option value="deepseek/deepseek-r1">deepseek/deepseek-r1 (razonamiento, puede tardar más)</option>
+              <option value="openai/gpt-oss-20b:free" selected>openai/gpt-oss-20b:free</option>
+              <option value="openai/gpt-oss-20b">openai/gpt-oss-20b</option>
+              <option value="openai/gpt-oss-120b">openai/gpt-oss-120b</option>
+              <option value="deepseek/deepseek-chat">deepseek/deepseek-chat</option>
+              <option value="deepseek/deepseek-r1">deepseek/deepseek-r1</option>
             </select>
           </div>
           <div>
@@ -171,7 +174,7 @@
     const modelSel = el('model');
     const tempInput= el('temp');
     keyInput.value = localStorage.getItem('preqx_key')||'';
-    modelSel.value = localStorage.getItem('preqx_model')||'deepseek/deepseek-chat';
+    modelSel.value = localStorage.getItem('preqx_model')||'openai/gpt-oss-20b:free';
     tempInput.value = localStorage.getItem('preqx_temp')||'0.1';
     keyInput.addEventListener('change', ()=>localStorage.setItem('preqx_key', keyInput.value));
     modelSel.addEventListener('change', ()=>localStorage.setItem('preqx_model', modelSel.value));
