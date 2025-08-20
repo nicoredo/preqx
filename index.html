@@ -94,24 +94,27 @@
 
       <!-- DERECHA: Config LLM + Llamada + Respuesta -->
       <section class="card">
-        <div class="title">4) Configurar OpenRouter (modelo)</div>
+        <div class="title">4) Configurar DeepSeek API (directo)</div>
         <label>API Key (se guarda localmente en tu navegador)</label>
         <input id="key" type="password" placeholder="sk-or-v1-…" />
         <div class="cols2" style="margin-top:8px">
           <div>
             <label>Modelo</label>
             <select id="model">
-              <option value="openai/gpt-oss-20b:free" selected>openai/gpt-oss-20b:free</option>
-              <option value="openai/gpt-oss-20b">openai/gpt-oss-20b</option>
-              <option value="openai/gpt-oss-120b">openai/gpt-oss-120b</option>
-              <option value="deepseek/deepseek-chat">deepseek/deepseek-chat</option>
-              <option value="deepseek/deepseek-r1">deepseek/deepseek-r1</option>
+              <option value="deepseek-chat" selected>deepseek-chat (V3)</option>
+              <option value="deepseek-reasoner">deepseek-reasoner (R1)</option>
             </select>
           </div>
           <div>
             <label>Temperatura</label>
             <input id="temp" type="text" value="0.1" />
           </div>
+        </div>
+        <div class="row" style="margin-top:8px">
+          <label style="display:flex;align-items:center;gap:8px">
+            <input type="checkbox" id="allowFallback" />
+            Permitir fallback automático si hay 503 (puede tener costo)
+          </label>
         </div>
         <div class="foot">Tu clave queda en <b>localStorage</b>. Recomendado usar una clave con <i>scope</i> limitado. Si preferís no exponer la clave en el navegador, implementá este llamado desde tu backend.</div>
 
@@ -174,8 +177,11 @@
     const modelSel = el('model');
     const tempInput= el('temp');
     keyInput.value = localStorage.getItem('preqx_key')||'';
-    modelSel.value = localStorage.getItem('preqx_model')||'openai/gpt-oss-20b:free';
+    modelSel.value = localStorage.getItem('preqx_model')||'deepseek-chat';
     tempInput.value = localStorage.getItem('preqx_temp')||'0.1';
+    const fallbackCb = document.getElementById('allowFallback');
+    fallbackCb.checked = localStorage.getItem('preqx_fallback')==='1';
+    fallbackCb.addEventListener('change', ()=> localStorage.setItem('preqx_fallback', fallbackCb.checked?'1':'0'));
     keyInput.addEventListener('change', ()=>localStorage.setItem('preqx_key', keyInput.value));
     modelSel.addEventListener('change', ()=>localStorage.setItem('preqx_model', modelSel.value));
     tempInput.addEventListener('change', ()=>localStorage.setItem('preqx_temp', tempInput.value));
@@ -256,46 +262,81 @@
     // Llamada a OpenRouter
     async function askLLM(){
       const key = keyInput.value.trim(); if(!key){alert('Poné tu API key de OpenRouter.');return}
-      const model = modelSel.value; const temperature = parseFloat(tempInput.value||'0.1')||0.1;
+      const temperature = parseFloat(tempInput.value||'0.1')||0.1;
       const question = el('query').value.trim(); if(!question){alert('Escribí tu pregunta.');return}
       const ctx = el('ctxOut').textContent.trim(); if(!ctx){alert('Primero hacé la búsqueda (CONTEXTO-RAG).');return}
+      const fallbackAllowed = document.getElementById('allowFallback').checked;
 
-      const messages = [
+      const baseHeaders = {
+        'Authorization': `Bearer ${key}`,
+        'Content-Type': 'application/json'
+      };
+
+      const makeBody = (model)=>({ model, temperature, messages:[
         {role:'system', content: SYSTEM_PROMPT},
-        {role:'user', content: `Pregunta:\n${question}\n\nCONTEXTO-RAG (SAC 2016):\n${ctx}`}
-      ];
+        {role:'user', content: `Pregunta:
+${question}
 
-      el('llmOut').textContent = 'Consultando a OpenRouter…';
-      try{
-        const res = await fetch('https://openrouter.ai/api/v1/chat/completions',{
-          method:'POST',
-          headers:{
-            'Authorization': `Bearer ${key}`,
-            'Content-Type':'application/json',
-            'HTTP-Referer': 'https://medex.ar',
-            'X-Title': 'MedEx PreQx (SAC)'
-          },
-          body: JSON.stringify({
-            model,
-            temperature,
-            messages,
-            // Comentá "response_format" si el modelo elegido no lo admite.
-            // response_format:{ type:'json_object' }
-          })
-        });
-        if(!res.ok){
-          const t = await res.text(); throw new Error(`HTTP ${res.status}: ${t}`);
+CONTEXTO-RAG (SAC 2016):
+${ctx}`}
+      ]});
+
+      const sleep = (ms)=>new Promise(r=>setTimeout(r,ms));
+      async function postWithRetries(model){
+        const delays = [600, 1500, 3500];
+        for(let i=0;i<=delays.length;i++){
+          const res = await fetch('https://api.deepseek.com/chat/completions',{
+            method:'POST', headers: baseHeaders, body: JSON.stringify(makeBody(model))
+          });
+          if(res.ok) return res.json();
+          let txt = await res.text();
+          try{ const j=JSON.parse(txt); if(j?.error?.code===503) throw {type:'provider_503', detail:j}; }catch(_){/* ignore */}
+          if(i===delays.length) throw new Error(`HTTP ${res.status}: ${txt}`);
+          await sleep(delays[i]);
         }
-        const data = await res.json();
+      }
+
+      const primaryModel = modelSel.value;
+      const fallbacks = [];
+      if(fallbackAllowed){
+        if(primaryModel==='openai/gpt-oss-20b:free'){
+          fallbacks.push('openai/gpt-oss-20b','deepseek/deepseek-chat');
+        } else {
+          fallbacks.push('deepseek/deepseek-chat','openai/gpt-oss-20b');
+        }
+      }
+
+      el('llmOut').textContent = `Consultando ${primaryModel}…`;
+      try{
+        const data = await postWithRetries(primaryModel);
         const out = data?.choices?.[0]?.message?.content || JSON.stringify(data,null,2);
         el('llmOut').textContent = out;
+        return;
       }catch(err){
-        el('llmOut').textContent = 'Error: '+ (err?.message||String(err));
+        const is503 = (typeof err==='object' && err?.type==='provider_503') || (err&&String(err).includes('HTTP 503'));
+        if(!is503 || !fallbackAllowed || fallbacks.length===0){
+          el('llmOut').textContent = 'Error: '+ (err?.message||String(err));
+          return;
+        }
+        // Intentar fallbacks
+        for(const fb of fallbacks){
+          el('llmOut').textContent = `Modelo primario 503. Probando fallback: ${fb}…`;
+          try{
+            const data = await postWithRetries(fb);
+            const out = data?.choices?.[0]?.message?.content || JSON.stringify(data,null,2);
+            el('llmOut').textContent = out + `
+
+[Usando fallback: ${fb}]`;
+            return;
+          }catch(e2){ /* sigue al siguiente */ }
+        }
+        el('llmOut').textContent = 'Error 503 persistente en proveedores y sin fallback exitoso.';
       }
     }
-    el('btnAsk').addEventListener('click', askLLM);
+    el('btnAsk').addEventListener('click', askLLM).addEventListener('click', askLLM);
     el('btnClear').addEventListener('click', ()=>{ el('llmOut').textContent=''; });
 
   </script>
 </body>
 </html>
+
